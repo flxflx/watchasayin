@@ -1,0 +1,16 @@
+HKCR
+{
+	NoRemove CLSID
+	{
+		ForceRemove {DEE1561E-5FDA-49CF-9BD0-48A8D6314369} = s 'Generic Class'
+		{
+			ForceRemove Programmable
+			LocalServer32 = s '%MODULE%'
+			{
+				val ServerExecutable = s '%MODULE_RAW%'
+			}
+			TypeLib = s '{F3B2DB50-48FD-45FC-93C0-69C0F785D0D5}'
+			Version = s '1.0'
+		}
+	}
+}

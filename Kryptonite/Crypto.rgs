@@ -1,0 +1,16 @@
+HKCR
+{
+	NoRemove CLSID
+	{
+		ForceRemove {CD109C50-2C13-4121-833F-8307BB46F665} = s 'Crypto Class'
+		{
+			ForceRemove Programmable
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			TypeLib = s '{89D3E345-93D5-4797-8BB2-B9C32B5B4255}'
+			Version = s '1.0'
+		}
+	}
+}

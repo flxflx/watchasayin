@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="Abort enumeration member" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="abortReceived method" Url="html/5d24f85f-1419-6d8d-8e06-a9ea461a4fae.htm" />
+  <HelpKINode Title="AccessibilityNotifyClients method" Url="html/82902aa6-a216-d85d-a237-4f577311646e.htm" />
+  <HelpKINode Title="Ack enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="ackReceived method" Url="html/c17a0a37-ca09-4ba1-39ab-8dd033869f16.htm" />
+  <HelpKINode Title="addSession method" Url="html/6219a937-a31c-22eb-3096-92861a907c54.htm" />
+  <HelpKINode Title="AES enumeration member" Url="html/57463af8-c56b-8a82-6bc7-d52ed405512c.htm" />
+  <HelpKINode Title="akeSuccessful method" Url="html/d1d23e59-bb15-13b3-d019-80c3a04fe6f7.htm" />
+  <HelpKINode Title="akeSuccessful method" Url="html/f8ca2c8f-785f-2bef-3dfb-0a2aea96528c.htm" />
+  <HelpKINode Title="algorithm property" Url="html/8e06277f-f55e-fdae-9d39-8150d348cc2d.htm" />
+  <HelpKINode Title="all enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="BeginInvoke method" Url="html/aa64190d-8858-7b13-51ef-313a50fb6577.htm" />
+  <HelpKINode Title="bitStrength property" Url="html/67b92af5-57d7-9a0a-ca99-7e96dbfa1ea3.htm" />
+  <HelpKINode Title="Bottom2Bottom enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="btm2btmReceived method" Url="html/0449825d-ceec-0494-0b09-9caab966107c.htm" />
+  <HelpKINode Title="call enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="callConference enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="chat enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="chatConference enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="close method" Url="html/a0e6dbe3-7280-cd33-62ad-473e5402e877.htm" />
+  <HelpKINode Title="close method" Url="html/cd24c927-c5ec-eaf5-6e33-b07f23740812.htm" />
+  <HelpKINode Title="Closing enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="closingReceived method" Url="html/221c1bcf-626e-ae5c-57ce-ffd23a3454a2.htm" />
+  <HelpKINode Title="Confirm enumeration member" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="confirmNewFingerprint method" Url="html/8f0e32fa-c9ff-7ee1-f2d6-99010867a023.htm" />
+  <HelpKINode Title="confirmNewFingerprint method" Url="html/ce3949aa-40f8-f1f4-3418-0f0910235305.htm" />
+  <HelpKINode Title="confirmReceived method" Url="html/a076ca42-48d1-33df-e2c7-512a3d07eb21.htm" />
+  <HelpKINode Title="CryptoKey class" Url="html/b39aaafd-9272-d8c0-65d5-9835e1f8ce2a.htm" />
+  <HelpKINode Title="CryptoKey class" Url="html/e0ebedd8-69e6-0873-1a2f-c4e481c82295.htm" />
+  <HelpKINode Title="CryptoKey class">
+    <HelpKINode Title="about CryptoKey class" Url="html/e0ebedd8-69e6-0873-1a2f-c4e481c82295.htm" />
+    <HelpKINode Title="all members" Url="html/b39aaafd-9272-d8c0-65d5-9835e1f8ce2a.htm" />
+    <HelpKINode Title="constructor" Url="html/eea5ad37-c4ca-06ea-68fc-1f7dcf43abdc.htm" />
+    <HelpKINode Title="methods" Url="html/6bae7a9d-b161-8299-7268-20e2ae8f505e.htm" />
+    <HelpKINode Title="properties" Url="html/96aff6a1-54a5-1e39-5a4a-d363e1e84306.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CryptoKey.algorithm property" Url="html/8e06277f-f55e-fdae-9d39-8150d348cc2d.htm" />
+  <HelpKINode Title="CryptoKey.bitStrength property" Url="html/67b92af5-57d7-9a0a-ca99-7e96dbfa1ea3.htm" />
+  <HelpKINode Title="CryptoKey.CryptoKey constructor" Url="html/eea5ad37-c4ca-06ea-68fc-1f7dcf43abdc.htm" />
+  <HelpKINode Title="CryptoKey.getRawKey method" Url="html/db4eee65-6c7b-8009-3ab6-b1bda8a3b448.htm" />
+  <HelpKINode Title="DCallEndedHandler delegate" Url="html/b2ee5ff2-7201-5421-f224-9ed5a56cab01.htm" />
+  <HelpKINode Title="DCallStartedHandler delegate" Url="html/02e3e34e-9c23-2ba1-bd57-d8cd0e65381a.htm" />
+  <HelpKINode Title="DChatMessageHandler delegate" Url="html/065c6418-1086-3413-f0ca-9f024dbab236.htm" />
+  <HelpKINode Title="decryptMessage method" Url="html/ad62719b-c337-a14c-d8c8-b6630999ba64.htm" />
+  <HelpKINode Title="displayNotification method" Url="html/664549b7-e7cf-9884-669e-067a7a59671d.htm" />
+  <HelpKINode Title="displayNotification method" Url="html/7edfb4c1-ac15-009b-915a-bd47cdc1388a.htm" />
+  <HelpKINode Title="displayOwnFingerprint method" Url="html/9fabfbb4-5a76-b9ac-d7bd-731c783b1d69.htm" />
+  <HelpKINode Title="displayOwnFingerprint method" Url="html/b4d5b933-9944-82dc-6b48-2d011d442377.htm" />
+  <HelpKINode Title="Dispose method" Url="html/feb59da9-e055-dc40-07c7-5ab5c1a763da.htm" />
+  <HelpKINode Title="DLogWriter delegate" Url="html/9281cf17-2ae9-f0ff-f528-ebaeac22f167.htm" />
+  <HelpKINode Title="DSendMessageSpecific delegate" Url="html/69b35e30-f70d-d348-465b-a6b60c77a787.htm" />
+  <HelpKINode Title="encrypt method" Url="html/4b161bb1-d95f-e672-2fa5-debb4ae4bbf1.htm" />
+  <HelpKINode Title="encryptMessage method" Url="html/56587e8c-1ee5-4412-1970-1b67569ac956.htm" />
+  <HelpKINode Title="end method" Url="html/5288b740-5c7d-8bdd-dea0-4446cf696c28.htm" />
+  <HelpKINode Title="end method" Url="html/bc05852a-3dcc-3d0c-f1f6-ab1c3cf97270.htm" />
+  <HelpKINode Title="establishSecureConnection method" Url="html/e570de49-c901-b9ce-9a31-ccbf7ed228fa.htm" />
+  <HelpKINode Title="ExceptionConnectionSelectionFailed class" Url="html/4a7491d2-24b6-b2a2-1ac8-87efa90978dc.htm" />
+  <HelpKINode Title="ExceptionConnectionSelectionFailed class" Url="html/7dc4a55d-30c4-5b89-5a35-fecb91db1db4.htm" />
+  <HelpKINode Title="ExceptionConnectionSelectionFailed class">
+    <HelpKINode Title="about ExceptionConnectionSelectionFailed class" Url="html/7dc4a55d-30c4-5b89-5a35-fecb91db1db4.htm" />
+    <HelpKINode Title="all members" Url="html/4a7491d2-24b6-b2a2-1ac8-87efa90978dc.htm" />
+    <HelpKINode Title="constructor" Url="html/08b8f1e8-2cfc-5697-a413-006246778edc.htm" />
+    <HelpKINode Title="events" Url="html/079c5a00-c791-b60a-04e5-bf296a89e0b1.htm" />
+    <HelpKINode Title="methods" Url="html/227cbbfd-7b79-3e9c-3a90-5694dda63436.htm" />
+    <HelpKINode Title="properties" Url="html/e7107f8d-ad91-7361-f3dd-53225d86a9df.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExceptionConnectionSelectionFailed.ExceptionConnectionSelectionFailed constructor" Url="html/08b8f1e8-2cfc-5697-a413-006246778edc.htm" />
+  <HelpKINode Title="ExceptionCryptoFailed class" Url="html/072267b9-2358-a998-20b8-02f46889ca86.htm" />
+  <HelpKINode Title="ExceptionCryptoFailed class" Url="html/890dda36-302a-715f-c553-4065d9992c47.htm" />
+  <HelpKINode Title="ExceptionCryptoFailed class">
+    <HelpKINode Title="about ExceptionCryptoFailed class" Url="html/072267b9-2358-a998-20b8-02f46889ca86.htm" />
+    <HelpKINode Title="all members" Url="html/890dda36-302a-715f-c553-4065d9992c47.htm" />
+    <HelpKINode Title="constructor" Url="html/5fb8a357-41c6-ca69-4d8e-566a1fdc7b1d.htm" />
+    <HelpKINode Title="events" Url="html/7e3fc6d0-bf8c-ad68-b38b-4d4f78a18e39.htm" />
+    <HelpKINode Title="methods" Url="html/4a78a3bf-c5fe-bfeb-5f3f-46417e5469bc.htm" />
+    <HelpKINode Title="properties" Url="html/d28cd887-7aab-644d-5a0a-34666d7f7e07.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExceptionCryptoFailed.ExceptionCryptoFailed constructor" Url="html/5fb8a357-41c6-ca69-4d8e-566a1fdc7b1d.htm" />
+  <HelpKINode Title="ExceptionEncryptionSetUpFailed class" Url="html/239b7d4a-0e5e-080c-fe9f-0b558e84f336.htm" />
+  <HelpKINode Title="ExceptionEncryptionSetUpFailed class" Url="html/241cb1a2-aca2-5a1c-3240-9583fdf429a9.htm" />
+  <HelpKINode Title="ExceptionEncryptionSetUpFailed class">
+    <HelpKINode Title="about ExceptionEncryptionSetUpFailed class" Url="html/239b7d4a-0e5e-080c-fe9f-0b558e84f336.htm" />
+    <HelpKINode Title="all members" Url="html/241cb1a2-aca2-5a1c-3240-9583fdf429a9.htm" />
+    <HelpKINode Title="constructor" Url="html/2457425e-6eed-1d42-7a89-1f6e12a16532.htm" />
+    <HelpKINode Title="events" Url="html/2e1bcafe-003b-ea6e-df3d-cccf6bb94f64.htm" />
+    <HelpKINode Title="methods" Url="html/4af61b54-d232-c43a-cb53-57e966af351f.htm" />
+    <HelpKINode Title="properties" Url="html/6cd51206-51a3-5234-8fa8-9810d13a515e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExceptionEncryptionSetUpFailed.ExceptionEncryptionSetUpFailed constructor" Url="html/2457425e-6eed-1d42-7a89-1f6e12a16532.htm" />
+  <HelpKINode Title="ExceptionNotImplemented class" Url="html/c776ed65-393e-39c5-9c18-3de3b0fa6095.htm" />
+  <HelpKINode Title="ExceptionNotImplemented class" Url="html/dd9136d7-25d6-a795-f041-de67c201d011.htm" />
+  <HelpKINode Title="ExceptionNotImplemented class">
+    <HelpKINode Title="about ExceptionNotImplemented class" Url="html/c776ed65-393e-39c5-9c18-3de3b0fa6095.htm" />
+    <HelpKINode Title="all members" Url="html/dd9136d7-25d6-a795-f041-de67c201d011.htm" />
+    <HelpKINode Title="constructor" Url="html/c3c26d1c-9fc9-75af-3adb-3bf71d14e225.htm" />
+    <HelpKINode Title="events" Url="html/f07a4e01-ee42-182e-b60e-57556c8a293f.htm" />
+    <HelpKINode Title="methods" Url="html/1e5cb5c9-8415-2518-d75f-4785ce1dbfb9.htm" />
+    <HelpKINode Title="properties" Url="html/829f3fa3-8f56-a62e-0e22-1e639e1d1299.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ExceptionNotImplemented.ExceptionNotImplemented constructor" Url="html/c3c26d1c-9fc9-75af-3adb-3bf71d14e225.htm" />
+  <HelpKINode Title="fileTransfer enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="fingerprintsInvalid method" Url="html/472018f4-4005-9343-4438-da21246e09b3.htm" />
+  <HelpKINode Title="fingerprintsInvalid method" Url="html/b43c9651-25ca-ada6-b791-a9140a5cffff.htm" />
+  <HelpKINode Title="FormMain class" Url="html/0f975e3f-e87f-f0d4-88db-10998d933241.htm" />
+  <HelpKINode Title="FormMain class" Url="html/b2c098e9-6aee-57ab-c7db-57d63bf2f678.htm" />
+  <HelpKINode Title="FormMain class">
+    <HelpKINode Title="about FormMain class" Url="html/0f975e3f-e87f-f0d4-88db-10998d933241.htm" />
+    <HelpKINode Title="all members" Url="html/b2c098e9-6aee-57ab-c7db-57d63bf2f678.htm" />
+    <HelpKINode Title="constructor" Url="html/fb63e50c-ce2b-71e5-478e-6a1e5ed8e1c6.htm" />
+    <HelpKINode Title="events" Url="html/23395f28-020a-207e-4646-ddcea01edcca.htm" />
+    <HelpKINode Title="methods" Url="html/1341c69b-e40e-b11b-1b2e-a0a3aed19f66.htm" />
+    <HelpKINode Title="properties" Url="html/aae89343-e50f-915d-3e68-1ea6104f1ce8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormMain.AccessibilityNotifyClients method" Url="html/82902aa6-a216-d85d-a237-4f577311646e.htm" />
+  <HelpKINode Title="FormMain.addSession method" Url="html/6219a937-a31c-22eb-3096-92861a907c54.htm" />
+  <HelpKINode Title="FormMain.akeSuccessful method" Url="html/d1d23e59-bb15-13b3-d019-80c3a04fe6f7.htm" />
+  <HelpKINode Title="FormMain.BeginInvoke method" Url="html/aa64190d-8858-7b13-51ef-313a50fb6577.htm" />
+  <HelpKINode Title="FormMain.confirmNewFingerprint method" Url="html/8f0e32fa-c9ff-7ee1-f2d6-99010867a023.htm" />
+  <HelpKINode Title="FormMain.displayNotification method" Url="html/664549b7-e7cf-9884-669e-067a7a59671d.htm" />
+  <HelpKINode Title="FormMain.displayOwnFingerprint method" Url="html/9fabfbb4-5a76-b9ac-d7bd-731c783b1d69.htm" />
+  <HelpKINode Title="FormMain.Dispose method" Url="html/feb59da9-e055-dc40-07c7-5ab5c1a763da.htm" />
+  <HelpKINode Title="FormMain.fingerprintsInvalid method" Url="html/472018f4-4005-9343-4438-da21246e09b3.htm" />
+  <HelpKINode Title="FormMain.FormMain constructor" Url="html/fb63e50c-ce2b-71e5-478e-6a1e5ed8e1c6.htm" />
+  <HelpKINode Title="FormMain.GetChildAtPoint method" Url="html/aaa464a7-5bc3-d130-9765-cf10b625b5e8.htm" />
+  <HelpKINode Title="FormMain.goneInsecure method" Url="html/f591a80f-e685-8a72-3959-a356cf3fcf65.htm" />
+  <HelpKINode Title="FormMain.goneSecure method" Url="html/78c78f07-82f4-98ee-35a8-5c25c1683e31.htm" />
+  <HelpKINode Title="FormMain.Invalidate method" Url="html/e74c3f31-c8cb-6397-783c-7007a7291125.htm" />
+  <HelpKINode Title="FormMain.Invoke method" Url="html/67d183c4-5171-c964-54a5-6b5304f1579a.htm" />
+  <HelpKINode Title="FormMain.log method" Url="html/625b4cb4-f2cb-ef3f-219c-14a63d11e62f.htm" />
+  <HelpKINode Title="FormMain.MemberwiseClone method" Url="html/6c4361bf-258f-315b-c3dc-6116aa365578.htm" />
+  <HelpKINode Title="FormMain.noFingerprintsFound method" Url="html/371b4978-2964-558f-7494-344ab38aeea2.htm" />
+  <HelpKINode Title="FormMain.noPrivateKeyFound method" Url="html/1012067c-1580-179c-3de8-3bfab1d0f6b8.htm" />
+  <HelpKINode Title="FormMain.PerformLayout method" Url="html/8c1649a4-23c9-b72b-2b93-d549449cb316.htm" />
+  <HelpKINode Title="FormMain.privateKeyInvalid method" Url="html/bf6ec71f-9daa-ef7a-96f2-14e66a0ae3d7.htm" />
+  <HelpKINode Title="FormMain.removeSession method" Url="html/9bc55154-21ae-2580-d1a1-206007081d04.htm" />
+  <HelpKINode Title="FormMain.ResumeLayout method" Url="html/9e345ffe-1869-e026-d906-6e49a96b91b5.htm" />
+  <HelpKINode Title="FormMain.RtlTranslateAlignment method" Url="html/3d1b6864-b86c-43fa-bd19-dcf5d4ab8d69.htm" />
+  <HelpKINode Title="FormMain.Scale method" Url="html/3b18a041-f9c8-2044-9790-4705a0a182c1.htm" />
+  <HelpKINode Title="FormMain.Select method" Url="html/66a2deb5-ec30-78b7-9c0f-91a65b44c855.htm" />
+  <HelpKINode Title="FormMain.SetBounds method" Url="html/ed02781e-7bff-5379-5bcc-4b08d97a6dac.htm" />
+  <HelpKINode Title="FormMain.Show method" Url="html/c42b9c9f-35bd-009f-dc5d-ee09412a5152.htm" />
+  <HelpKINode Title="FormMain.ShowDialog method" Url="html/b8fb4204-64f5-eb2a-ac3d-7e9d8aaeab75.htm" />
+  <HelpKINode Title="FormMain.UpdateBounds method" Url="html/30a999cc-3bb1-924e-3d99-cdd791ae5335.htm" />
+  <HelpKINode Title="FormMain.Validate method" Url="html/47755f4a-ce47-f48c-42fa-dc2f962428b1.htm" />
+  <HelpKINode Title="FormMain.ValidateChildren method" Url="html/2970026d-c17b-1741-1f9f-24d855b23f07.htm" />
+  <HelpKINode Title="GetChildAtPoint method" Url="html/aaa464a7-5bc3-d130-9765-cf10b625b5e8.htm" />
+  <HelpKINode Title="getRawKey method" Url="html/db4eee65-6c7b-8009-3ab6-b1bda8a3b448.htm" />
+  <HelpKINode Title="getSessionKey method" Url="html/931227d7-8984-f6db-e6ff-419134df9be6.htm" />
+  <HelpKINode Title="getSpecificInstance method" Url="html/2073415a-91ba-ee51-47a5-9974105667c3.htm" />
+  <HelpKINode Title="getSpecificInstance method" Url="html/4ffaa09a-d18f-aa30-6082-556f42127d3c.htm" />
+  <HelpKINode Title="getSpecificInstance method" Url="html/57217568-b591-6403-ecce-43617edfb7c1.htm" />
+  <HelpKINode Title="getSpecificInstance method" Url="html/970796ed-b237-9fcb-9bd1-dd0a20ba8186.htm" />
+  <HelpKINode Title="getSupportedKeyAlgorithm method" Url="html/cbbdcde6-34ac-33c4-128a-84abcd896d71.htm" />
+  <HelpKINode Title="getSupportedKeyBitStrength method" Url="html/f4e43ca1-98bf-7f81-040b-7c0e8933f987.htm" />
+  <HelpKINode Title="goneInsecure method" Url="html/9617d1fb-90c0-67ff-3bdd-266006ee27fa.htm" />
+  <HelpKINode Title="goneInsecure method" Url="html/f591a80f-e685-8a72-3959-a356cf3fcf65.htm" />
+  <HelpKINode Title="goneSecure method" Url="html/78c78f07-82f4-98ee-35a8-5c25c1683e31.htm" />
+  <HelpKINode Title="goneSecure method" Url="html/83f2233b-3b44-1d44-86a0-9631d348edd8.htm" />
+  <HelpKINode Title="IBottom interface" Url="html/0c5b2ccf-9631-55b2-ce1d-6faac375564b.htm" />
+  <HelpKINode Title="IBottom interface" Url="html/13a872c1-aad5-2595-6168-28568f0df007.htm" />
+  <HelpKINode Title="IBottom interface">
+    <HelpKINode Title="about IBottom interface" Url="html/0c5b2ccf-9631-55b2-ce1d-6faac375564b.htm" />
+    <HelpKINode Title="all members" Url="html/13a872c1-aad5-2595-6168-28568f0df007.htm" />
+    <HelpKINode Title="methods" Url="html/c3dbbe3e-df03-1bd0-c563-2094512dfadf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBottomExternalCommunication interface" Url="html/46e6abcc-439b-975b-2b99-e0ac0a93af8d.htm" />
+  <HelpKINode Title="IBottomExternalCommunication interface" Url="html/829cf52b-8704-1e6e-02ad-d9e8ece5a546.htm" />
+  <HelpKINode Title="IBottomExternalCommunication interface">
+    <HelpKINode Title="about IBottomExternalCommunication interface" Url="html/46e6abcc-439b-975b-2b99-e0ac0a93af8d.htm" />
+    <HelpKINode Title="all members" Url="html/829cf52b-8704-1e6e-02ad-d9e8ece5a546.htm" />
+    <HelpKINode Title="methods" Url="html/2eed615d-de3d-e450-9ee5-bf07f0d746b4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBottomExternalCommunication.getSpecificInstance method" Url="html/57217568-b591-6403-ecce-43617edfb7c1.htm" />
+  <HelpKINode Title="IBottomExternalCommunicationSpecific interface" Url="html/d44e43d8-302f-39b8-5da0-69dca37d1911.htm" />
+  <HelpKINode Title="IBottomExternalCommunicationSpecific interface" Url="html/e83a1d31-cb99-6c4f-88fa-856e2c1db5e9.htm" />
+  <HelpKINode Title="IBottomExternalCommunicationSpecific interface">
+    <HelpKINode Title="about IBottomExternalCommunicationSpecific interface" Url="html/d44e43d8-302f-39b8-5da0-69dca37d1911.htm" />
+    <HelpKINode Title="all members" Url="html/e83a1d31-cb99-6c4f-88fa-856e2c1db5e9.htm" />
+    <HelpKINode Title="methods" Url="html/2dc76363-8a30-2403-5a08-e776b4fd5497.htm" />
+    <HelpKINode Title="properties" Url="html/3e62d10c-eff8-70d9-eda1-132d300b4c10.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBottomExternalCommunicationSpecific.close method" Url="html/cd24c927-c5ec-eaf5-6e33-b07f23740812.htm" />
+  <HelpKINode Title="IBottomExternalCommunicationSpecific.encrypt method" Url="html/4b161bb1-d95f-e672-2fa5-debb4ae4bbf1.htm" />
+  <HelpKINode Title="IBottomExternalCommunicationSpecific.getSupportedKeyAlgorithm method" Url="html/cbbdcde6-34ac-33c4-128a-84abcd896d71.htm" />
+  <HelpKINode Title="IBottomExternalCommunicationSpecific.getSupportedKeyBitStrength method" Url="html/f4e43ca1-98bf-7f81-040b-7c0e8933f987.htm" />
+  <HelpKINode Title="ICMP enumeration member" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+  <HelpKINode Title="IKryptonite interface" Url="html/2611aa35-5390-b7f4-c66c-b62b9231911f.htm" />
+  <HelpKINode Title="IKryptonite interface" Url="html/9d2fdbcf-d778-0af0-8d38-326b61a3c767.htm" />
+  <HelpKINode Title="IKryptonite interface">
+    <HelpKINode Title="about IKryptonite interface" Url="html/2611aa35-5390-b7f4-c66c-b62b9231911f.htm" />
+    <HelpKINode Title="all members" Url="html/9d2fdbcf-d778-0af0-8d38-326b61a3c767.htm" />
+    <HelpKINode Title="methods" Url="html/4ce79d8c-8e82-4706-ff32-675eb01179bb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKryptoniteExternalCommunication interface" Url="html/8b8e0af0-b8e4-15a9-96bd-f9864821568a.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunication interface" Url="html/c61545ce-21e8-d0fc-07e4-df09a16de8ef.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunication interface">
+    <HelpKINode Title="about IKryptoniteExternalCommunication interface" Url="html/8b8e0af0-b8e4-15a9-96bd-f9864821568a.htm" />
+    <HelpKINode Title="all members" Url="html/c61545ce-21e8-d0fc-07e4-df09a16de8ef.htm" />
+    <HelpKINode Title="methods" Url="html/53e72e7d-d576-767d-5b57-8f14101b7faf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKryptoniteExternalCommunication.getSpecificInstance method" Url="html/2073415a-91ba-ee51-47a5-9974105667c3.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific interface" Url="html/03bf9928-0be5-ad69-1271-7f17b81d54c5.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific interface" Url="html/d812c720-981e-26d7-4c52-d9e4daef1ad7.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific interface">
+    <HelpKINode Title="about IKryptoniteExternalCommunicationSpecific interface" Url="html/d812c720-981e-26d7-4c52-d9e4daef1ad7.htm" />
+    <HelpKINode Title="all members" Url="html/03bf9928-0be5-ad69-1271-7f17b81d54c5.htm" />
+    <HelpKINode Title="methods" Url="html/c1543b50-b5db-2899-4ce9-c1d8934ad404.htm" />
+    <HelpKINode Title="properties" Url="html/1c719ad7-2b16-ab57-4f6f-cb14b1abab08.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific.close method" Url="html/a0e6dbe3-7280-cd33-62ad-473e5402e877.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific.decryptMessage method" Url="html/ad62719b-c337-a14c-d8c8-b6630999ba64.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific.encryptMessage method" Url="html/56587e8c-1ee5-4412-1970-1b67569ac956.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific.establishSecureConnection method" Url="html/e570de49-c901-b9ce-9a31-ccbf7ed228fa.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific.getSessionKey method" Url="html/931227d7-8984-f6db-e6ff-419134df9be6.htm" />
+  <HelpKINode Title="IKryptoniteExternalCommunicationSpecific.isSecure property" Url="html/b5ec6d9a-59d9-270e-8ed5-94ab1ab0c402.htm" />
+  <HelpKINode Title="IModule interface" Url="html/532bf51b-e1cd-96a5-6fd6-a0beebf32cc1.htm" />
+  <HelpKINode Title="IModule interface" Url="html/89c0b4b5-0110-2105-cc14-a11197cd2057.htm" />
+  <HelpKINode Title="IModule interface">
+    <HelpKINode Title="about IModule interface" Url="html/89c0b4b5-0110-2105-cc14-a11197cd2057.htm" />
+    <HelpKINode Title="all members" Url="html/532bf51b-e1cd-96a5-6fd6-a0beebf32cc1.htm" />
+    <HelpKINode Title="methods" Url="html/432e5c65-7c79-8ee4-7235-4fd5a0a091e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IModule.reset method" Url="html/004fd136-58f3-81d2-ec69-d4547b88eb1d.htm" />
+  <HelpKINode Title="IModule.setUp method" Url="html/2fca3403-fd39-ecac-cc75-826d7c857ec8.htm" />
+  <HelpKINode Title="IModule.tearDown method" Url="html/1005570c-d582-6070-4c06-10e9c7c09485.htm" />
+  <HelpKINode Title="IModuleExternalCommunicationSpecific interface" Url="html/2af6db3f-1efd-8bc8-b4d7-bbc604b47c9a.htm" />
+  <HelpKINode Title="IModuleExternalCommunicationSpecific interface" Url="html/bdcb8317-4da3-800d-d511-d1fe553ce3ba.htm" />
+  <HelpKINode Title="IModuleExternalCommunicationSpecific interface">
+    <HelpKINode Title="about IModuleExternalCommunicationSpecific interface" Url="html/2af6db3f-1efd-8bc8-b4d7-bbc604b47c9a.htm" />
+    <HelpKINode Title="all members" Url="html/bdcb8317-4da3-800d-d511-d1fe553ce3ba.htm" />
+    <HelpKINode Title="methods" Url="html/61d7c601-c465-b5ad-27df-346cd01e4bd8.htm" />
+    <HelpKINode Title="properties" Url="html/23ad55d7-8ae8-dd69-59be-99c51eb881e5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IModuleExternalCommunicationSpecific.messageReceived method" Url="html/b9ada7b0-d8db-5bf6-e571-c1fa565b230b.htm" />
+  <HelpKINode Title="IModuleExternalCommunicationSpecific.sendMessage property" Url="html/dfd553ea-0eeb-155a-b042-eadfdcddd52b.htm" />
+  <HelpKINode Title="InProcess class" Url="html/406068cd-31b6-6dec-9fe2-35d31b5dd80e.htm" />
+  <HelpKINode Title="InProcess class" Url="html/a308dc35-4a0a-66a5-93b3-ef22f5a33143.htm" />
+  <HelpKINode Title="InProcess class">
+    <HelpKINode Title="about InProcess class" Url="html/406068cd-31b6-6dec-9fe2-35d31b5dd80e.htm" />
+    <HelpKINode Title="all members" Url="html/a308dc35-4a0a-66a5-93b3-ef22f5a33143.htm" />
+    <HelpKINode Title="constructor" Url="html/ac73128a-138b-5e85-26d4-063f3e3176d7.htm" />
+    <HelpKINode Title="methods" Url="html/4d813760-54e2-a2c2-11a6-21292ef36eef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InProcess.getSpecificInstance method" Url="html/970796ed-b237-9fcb-9bd1-dd0a20ba8186.htm" />
+  <HelpKINode Title="InProcess.InProcess constructor" Url="html/ac73128a-138b-5e85-26d4-063f3e3176d7.htm" />
+  <HelpKINode Title="InProcess.reset method" Url="html/1ef8f162-58f5-b48e-93b6-4f958a3b8be8.htm" />
+  <HelpKINode Title="InProcess.setUp method" Url="html/40962074-b829-e467-0ca4-89362649185b.htm" />
+  <HelpKINode Title="InProcess.tearDown method" Url="html/bfb094ae-dcef-bdfd-d3f0-17075fbdb31a.htm" />
+  <HelpKINode Title="intToMessageType method" Url="html/84dc823d-7123-73f8-663a-fc1389ba76f7.htm" />
+  <HelpKINode Title="Invalidate method" Url="html/e74c3f31-c8cb-6397-783c-7007a7291125.htm" />
+  <HelpKINode Title="Invoke method" Url="html/67d183c4-5171-c964-54a5-6b5304f1579a.htm" />
+  <HelpKINode Title="isSecure property" Url="html/b5ec6d9a-59d9-270e-8ed5-94ab1ab0c402.htm" />
+  <HelpKINode Title="IUserIO interface" Url="html/3c189965-cef2-5a18-ecba-d535b7ae9267.htm" />
+  <HelpKINode Title="IUserIO interface" Url="html/4ca33a56-cf44-06e0-9eaa-511c26ecb259.htm" />
+  <HelpKINode Title="IUserIO interface" Url="html/b1f90778-0344-0338-187e-adf7f1505af0.htm" />
+  <HelpKINode Title="IUserIO interface" Url="html/cdc92d53-2f95-230f-fa6c-6233e4aae9d2.htm" />
+  <HelpKINode Title="IUserIO interface">
+    <HelpKINode Title="about IUserIO interface" Url="html/4ca33a56-cf44-06e0-9eaa-511c26ecb259.htm" />
+    <HelpKINode Title="about IUserIO interface" Url="html/cdc92d53-2f95-230f-fa6c-6233e4aae9d2.htm" />
+    <HelpKINode Title="all members" Url="html/3c189965-cef2-5a18-ecba-d535b7ae9267.htm" />
+    <HelpKINode Title="all members" Url="html/b1f90778-0344-0338-187e-adf7f1505af0.htm" />
+    <HelpKINode Title="methods" Url="html/186b75b8-a8ed-565f-2086-a5c07b63d470.htm" />
+    <HelpKINode Title="methods" Url="html/f8580ef6-e5ce-6606-b248-b56c26334404.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUserIO.akeSuccessful method" Url="html/f8ca2c8f-785f-2bef-3dfb-0a2aea96528c.htm" />
+  <HelpKINode Title="IUserIO.confirmNewFingerprint method" Url="html/ce3949aa-40f8-f1f4-3418-0f0910235305.htm" />
+  <HelpKINode Title="IUserIO.displayNotification method" Url="html/7edfb4c1-ac15-009b-915a-bd47cdc1388a.htm" />
+  <HelpKINode Title="IUserIO.displayOwnFingerprint method" Url="html/b4d5b933-9944-82dc-6b48-2d011d442377.htm" />
+  <HelpKINode Title="IUserIO.fingerprintsInvalid method" Url="html/b43c9651-25ca-ada6-b791-a9140a5cffff.htm" />
+  <HelpKINode Title="IUserIO.goneInsecure method" Url="html/9617d1fb-90c0-67ff-3bdd-266006ee27fa.htm" />
+  <HelpKINode Title="IUserIO.goneSecure method" Url="html/83f2233b-3b44-1d44-86a0-9631d348edd8.htm" />
+  <HelpKINode Title="IUserIO.noFingerprintsFound method" Url="html/9ca05713-ef1a-4720-f6ab-9dc95d33fc7c.htm" />
+  <HelpKINode Title="IUserIO.noPrivateKeyFound method" Url="html/9f0fd87b-15fc-7a92-e14f-4f24f0d3cd60.htm" />
+  <HelpKINode Title="IUserIO.privateKeyInvalid method" Url="html/b9cc24bf-21d4-7e42-edba-fd198876e9a4.htm" />
+  <HelpKINode Title="krypt2kryptReceived method" Url="html/db92b9f0-bc1a-d714-dce7-94e3f2a5799a.htm" />
+  <HelpKINode Title="Kryptonite2Kryptonite enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="log method" Url="html/625b4cb4-f2cb-ef3f-219c-14a63d11e62f.htm" />
+  <HelpKINode Title="log method" Url="html/94a064a9-6879-19be-fe3a-bf8300093534.htm" />
+  <HelpKINode Title="logDebug enumeration member" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+  <HelpKINode Title="logEverything enumeration member" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+  <HelpKINode Title="Logger class" Url="html/807e173f-2190-bae2-2abe-15d194ed9d20.htm" />
+  <HelpKINode Title="Logger class" Url="html/adf800de-2c23-017c-729c-81e27e61cdb5.htm" />
+  <HelpKINode Title="Logger class">
+    <HelpKINode Title="about Logger class" Url="html/807e173f-2190-bae2-2abe-15d194ed9d20.htm" />
+    <HelpKINode Title="all members" Url="html/adf800de-2c23-017c-729c-81e27e61cdb5.htm" />
+    <HelpKINode Title="fields" Url="html/080e64af-581a-f4a8-eecb-7855a8e5f7af.htm" />
+    <HelpKINode Title="methods" Url="html/5dadcf14-934e-93ed-a609-1971c8dcf389.htm" />
+    <HelpKINode Title="properties" Url="html/819382d8-efe8-6dda-0c66-faf1928a8c88.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logger.log method" Url="html/94a064a9-6879-19be-fe3a-bf8300093534.htm" />
+  <HelpKINode Title="Logger.logLevel field" Url="html/8d422705-f592-5c75-e97d-84b53aacd2b7.htm" />
+  <HelpKINode Title="Logger.logWriter property" Url="html/a6d01282-507b-d79e-2345-aa949be25c8c.htm" />
+  <HelpKINode Title="logLevel field" Url="html/8d422705-f592-5c75-e97d-84b53aacd2b7.htm" />
+  <HelpKINode Title="logNothing enumeration member" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+  <HelpKINode Title="logUser enumeration member" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+  <HelpKINode Title="logWriter property" Url="html/a6d01282-507b-d79e-2345-aa949be25c8c.htm" />
+  <HelpKINode Title="LOOSE enumeration member" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  <HelpKINode Title="Matches enumeration member" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="matchesReceived method" Url="html/3f91e947-c2f9-6e01-eb48-84ee2d4ab040.htm" />
+  <HelpKINode Title="MemberwiseClone method" Url="html/6c4361bf-258f-315b-c3dc-6116aa365578.htm" />
+  <HelpKINode Title="messageReceived method" Url="html/b9ada7b0-d8db-5bf6-e571-c1fa565b230b.htm" />
+  <HelpKINode Title="MyConnections enumeration member" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="myConnectionsReceived method" Url="html/3f6d79ba-9730-2f2c-8dfb-882c74acb715.htm" />
+  <HelpKINode Title="Nack enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="nackReceived method" Url="html/f0e0a944-6e4c-c779-a11c-e41b1974fcea.htm" />
+  <HelpKINode Title="noFingerprintsFound method" Url="html/371b4978-2964-558f-7494-344ab38aeea2.htm" />
+  <HelpKINode Title="noFingerprintsFound method" Url="html/9ca05713-ef1a-4720-f6ab-9dc95d33fc7c.htm" />
+  <HelpKINode Title="noPrivateKeyFound method" Url="html/1012067c-1580-179c-3de8-3bfab1d0f6b8.htm" />
+  <HelpKINode Title="noPrivateKeyFound method" Url="html/9f0fd87b-15fc-7a92-e14f-4f24f0d3cd60.htm" />
+  <HelpKINode Title="payload property" Url="html/77673d1c-41c5-0cb1-acf5-b560f5559d1f.htm" />
+  <HelpKINode Title="PerformLayout method" Url="html/8c1649a4-23c9-b72b-2b93-d549449cb316.htm" />
+  <HelpKINode Title="privateKeyInvalid method" Url="html/b9cc24bf-21d4-7e42-edba-fd198876e9a4.htm" />
+  <HelpKINode Title="privateKeyInvalid method" Url="html/bf6ec71f-9daa-ef7a-96f2-14e66a0ae3d7.htm" />
+  <HelpKINode Title="removeSession method" Url="html/9bc55154-21ae-2580-d1a1-206007081d04.htm" />
+  <HelpKINode Title="RequestConnections enumeration member" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="requestConnectionsReceived method" Url="html/0559d23d-8fb8-5d7c-3daa-f1e7e95f6883.htm" />
+  <HelpKINode Title="reset method" Url="html/004fd136-58f3-81d2-ec69-d4547b88eb1d.htm" />
+  <HelpKINode Title="reset method" Url="html/1ef8f162-58f5-b48e-93b6-4f958a3b8be8.htm" />
+  <HelpKINode Title="reset method" Url="html/cd0e3899-4fc3-d0de-d154-989dbf3472a3.htm" />
+  <HelpKINode Title="ResumeLayout method" Url="html/9e345ffe-1869-e026-d906-6e49a96b91b5.htm" />
+  <HelpKINode Title="RtlTranslateAlignment method" Url="html/3d1b6864-b86c-43fa-bd19-dcf5d4ab8d69.htm" />
+  <HelpKINode Title="running property" Url="html/86e8e2c6-a540-466a-db7a-edba74d45b84.htm" />
+  <HelpKINode Title="running property" Url="html/bc028d18-9d02-2186-3e3b-61f788552887.htm" />
+  <HelpKINode Title="Scale method" Url="html/3b18a041-f9c8-2044-9790-4705a0a182c1.htm" />
+  <HelpKINode Title="securityStatusChanged method" Url="html/b742e36a-7eee-2656-5ddc-07275614b7ee.htm" />
+  <HelpKINode Title="Select method" Url="html/66a2deb5-ec30-78b7-9c0f-91a65b44c855.htm" />
+  <HelpKINode Title="sendMessage property" Url="html/dfd553ea-0eeb-155a-b042-eadfdcddd52b.htm" />
+  <HelpKINode Title="Session class" Url="html/71d4c0e5-4034-9fe4-a43c-0946bfc5ad5e.htm" />
+  <HelpKINode Title="Session class" Url="html/7c49b5e3-dca3-e996-09ed-cc90290f2dbf.htm" />
+  <HelpKINode Title="Session class" Url="html/9ed11b3e-e56c-d646-ba6d-fd3b7b4e5eac.htm" />
+  <HelpKINode Title="Session class" Url="html/a42eab80-2d69-b2e0-f2dc-648acc05157b.htm" />
+  <HelpKINode Title="Session class">
+    <HelpKINode Title="about Session class" Url="html/7c49b5e3-dca3-e996-09ed-cc90290f2dbf.htm" />
+    <HelpKINode Title="about Session class" Url="html/9ed11b3e-e56c-d646-ba6d-fd3b7b4e5eac.htm" />
+    <HelpKINode Title="all members" Url="html/71d4c0e5-4034-9fe4-a43c-0946bfc5ad5e.htm" />
+    <HelpKINode Title="all members" Url="html/a42eab80-2d69-b2e0-f2dc-648acc05157b.htm" />
+    <HelpKINode Title="constructor" Url="html/00f75070-926f-b6e5-1bbf-a8b6bac4d3b1.htm" />
+    <HelpKINode Title="constructor" Url="html/db2a58bd-cd14-80b2-e0ed-eb702f4b43a9.htm" />
+    <HelpKINode Title="methods" Url="html/4d64f349-dd25-f205-b20e-ac0c8d9b7ec2.htm" />
+    <HelpKINode Title="methods" Url="html/c0dc9c90-b4d4-2e51-d703-0cf40931609e.htm" />
+    <HelpKINode Title="properties" Url="html/a0fcbd68-ea45-af93-0d29-41d4506f12be.htm" />
+    <HelpKINode Title="properties" Url="html/ac2d6a52-3f46-55ef-2b1c-4fcfb623f6ae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Session.abortReceived method" Url="html/5d24f85f-1419-6d8d-8e06-a9ea461a4fae.htm" />
+  <HelpKINode Title="Session.ackReceived method" Url="html/c17a0a37-ca09-4ba1-39ab-8dd033869f16.htm" />
+  <HelpKINode Title="Session.btm2btmReceived method" Url="html/0449825d-ceec-0494-0b09-9caab966107c.htm" />
+  <HelpKINode Title="Session.closingReceived method" Url="html/221c1bcf-626e-ae5c-57ce-ffd23a3454a2.htm" />
+  <HelpKINode Title="Session.confirmReceived method" Url="html/a076ca42-48d1-33df-e2c7-512a3d07eb21.htm" />
+  <HelpKINode Title="Session.end method" Url="html/5288b740-5c7d-8bdd-dea0-4446cf696c28.htm" />
+  <HelpKINode Title="Session.end method" Url="html/bc05852a-3dcc-3d0c-f1f6-ab1c3cf97270.htm" />
+  <HelpKINode Title="Session.krypt2kryptReceived method" Url="html/db92b9f0-bc1a-d714-dce7-94e3f2a5799a.htm" />
+  <HelpKINode Title="Session.matchesReceived method" Url="html/3f91e947-c2f9-6e01-eb48-84ee2d4ab040.htm" />
+  <HelpKINode Title="Session.myConnectionsReceived method" Url="html/3f6d79ba-9730-2f2c-8dfb-882c74acb715.htm" />
+  <HelpKINode Title="Session.nackReceived method" Url="html/f0e0a944-6e4c-c779-a11c-e41b1974fcea.htm" />
+  <HelpKINode Title="Session.requestConnectionsReceived method" Url="html/0559d23d-8fb8-5d7c-3daa-f1e7e95f6883.htm" />
+  <HelpKINode Title="Session.running property" Url="html/86e8e2c6-a540-466a-db7a-edba74d45b84.htm" />
+  <HelpKINode Title="Session.running property" Url="html/bc028d18-9d02-2186-3e3b-61f788552887.htm" />
+  <HelpKINode Title="Session.securityStatusChanged method" Url="html/b742e36a-7eee-2656-5ddc-07275614b7ee.htm" />
+  <HelpKINode Title="Session.Session constructor" Url="html/00f75070-926f-b6e5-1bbf-a8b6bac4d3b1.htm" />
+  <HelpKINode Title="Session.Session constructor" Url="html/db2a58bd-cd14-80b2-e0ed-eb702f4b43a9.htm" />
+  <HelpKINode Title="Session.start method" Url="html/3996d07e-e822-51a1-0306-c2dc5336e4bd.htm" />
+  <HelpKINode Title="Session.start method" Url="html/51ab6174-f735-108e-8aa7-e619c7cc3fd6.htm" />
+  <HelpKINode Title="Session.startedProtocol property" Url="html/38b30d23-1f5e-73b6-923b-269c8b171890.htm" />
+  <HelpKINode Title="Session.synReceived method" Url="html/95a3a9ab-9913-5359-059a-335c7a3b73f5.htm" />
+  <HelpKINode Title="Session.unknownReceived method" Url="html/04b63d2e-cfa8-53fa-b0a8-fa52f8b7953e.htm" />
+  <HelpKINode Title="Session.unknownReceived method" Url="html/28ac7712-0b51-6ea4-4c5b-4002c09902e3.htm" />
+  <HelpKINode Title="SetBounds method" Url="html/ed02781e-7bff-5379-5bcc-4b08d97a6dac.htm" />
+  <HelpKINode Title="setUp method" Url="html/2fca3403-fd39-ecac-cc75-826d7c857ec8.htm" />
+  <HelpKINode Title="setUp method" Url="html/40962074-b829-e467-0ca4-89362649185b.htm" />
+  <HelpKINode Title="setUp method" Url="html/5e4ac5a6-1b18-75b2-a2bf-79a0571b59b7.htm" />
+  <HelpKINode Title="SharedLibrary class" Url="html/7fa6111d-8bbd-5897-7584-a68c1df72a59.htm" />
+  <HelpKINode Title="SharedLibrary class" Url="html/9c2d9c88-7204-e179-ae1e-87a9dfdda7eb.htm" />
+  <HelpKINode Title="SharedLibrary class">
+    <HelpKINode Title="about SharedLibrary class" Url="html/7fa6111d-8bbd-5897-7584-a68c1df72a59.htm" />
+    <HelpKINode Title="all members" Url="html/9c2d9c88-7204-e179-ae1e-87a9dfdda7eb.htm" />
+    <HelpKINode Title="constructor" Url="html/e924a659-30c2-d691-9cdd-b9d2889b911a.htm" />
+    <HelpKINode Title="methods" Url="html/c5062154-3e31-dbd7-9260-1bbd07b7dd14.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SharedLibrary.getSpecificInstance method" Url="html/4ffaa09a-d18f-aa30-6082-556f42127d3c.htm" />
+  <HelpKINode Title="SharedLibrary.reset method" Url="html/cd0e3899-4fc3-d0de-d154-989dbf3472a3.htm" />
+  <HelpKINode Title="SharedLibrary.setUp method" Url="html/5e4ac5a6-1b18-75b2-a2bf-79a0571b59b7.htm" />
+  <HelpKINode Title="SharedLibrary.SharedLibrary constructor" Url="html/e924a659-30c2-d691-9cdd-b9d2889b911a.htm" />
+  <HelpKINode Title="SharedLibrary.tearDown method" Url="html/ae18639a-737c-8e5c-1a49-efa22e38f04b.htm" />
+  <HelpKINode Title="Show method" Url="html/c42b9c9f-35bd-009f-dc5d-ee09412a5152.htm" />
+  <HelpKINode Title="ShowDialog method" Url="html/b8fb4204-64f5-eb2a-ac3d-7e9d8aaeab75.htm" />
+  <HelpKINode Title="start method" Url="html/3996d07e-e822-51a1-0306-c2dc5336e4bd.htm" />
+  <HelpKINode Title="start method" Url="html/51ab6174-f735-108e-8aa7-e619c7cc3fd6.htm" />
+  <HelpKINode Title="startedProtocol property" Url="html/38b30d23-1f5e-73b6-923b-269c8b171890.htm" />
+  <HelpKINode Title="Syn enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="synReceived method" Url="html/95a3a9ab-9913-5359-059a-335c7a3b73f5.htm" />
+  <HelpKINode Title="TBottomMessage enumeration" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="TCP enumeration member" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+  <HelpKINode Title="TCryptoAlgo enumeration" Url="html/57463af8-c56b-8a82-6bc7-d52ed405512c.htm" />
+  <HelpKINode Title="tearDown method" Url="html/1005570c-d582-6070-4c06-10e9c7c09485.htm" />
+  <HelpKINode Title="tearDown method" Url="html/ae18639a-737c-8e5c-1a49-efa22e38f04b.htm" />
+  <HelpKINode Title="tearDown method" Url="html/bfb094ae-dcef-bdfd-d3f0-17075fbdb31a.htm" />
+  <HelpKINode Title="text property" Url="html/a8740ad6-d670-f2db-7312-d6d6cc0fbeea.htm" />
+  <HelpKINode Title="TGenericMessage enumeration" Url="html/957d669e-ab55-ab91-76c1-4294e55e7cc4.htm" />
+  <HelpKINode Title="TIGHT enumeration member" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  <HelpKINode Title="TIpProtocol enumeration" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+  <HelpKINode Title="TLogLevel enumeration" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+  <HelpKINode Title="TSecurityPolicy enumeration" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  <HelpKINode Title="TSession enumeration" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="TSurfaceMessage enumeration" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="type property" Url="html/9763ce2e-010b-2381-4630-cad6e6d3e417.htm" />
+  <HelpKINode Title="UDP enumeration member" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+  <HelpKINode Title="unknown enumeration member" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  <HelpKINode Title="unknown enumeration member" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+  <HelpKINode Title="unknown enumeration member" Url="html/57463af8-c56b-8a82-6bc7-d52ed405512c.htm" />
+  <HelpKINode Title="unknown enumeration member" Url="html/957d669e-ab55-ab91-76c1-4294e55e7cc4.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="Unknown enumeration member" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="unknownReceived method" Url="html/04b63d2e-cfa8-53fa-b0a8-fa52f8b7953e.htm" />
+  <HelpKINode Title="unknownReceived method" Url="html/28ac7712-0b51-6ea4-4c5b-4002c09902e3.htm" />
+  <HelpKINode Title="UpdateBounds method" Url="html/30a999cc-3bb1-924e-3d99-cdd791ae5335.htm" />
+  <HelpKINode Title="valid property" Url="html/25db9d12-c4d2-b941-dc95-e6d051fa8056.htm" />
+  <HelpKINode Title="Validate method" Url="html/47755f4a-ce47-f48c-42fa-dc2f962428b1.htm" />
+  <HelpKINode Title="ValidateChildren method" Url="html/2970026d-c17b-1741-1f9f-24d855b23f07.htm" />
+  <HelpKINode Title="validType method" Url="html/ea626c2a-abe6-9e45-a95d-1dd956090f4a.htm" />
+  <HelpKINode Title="VERY_LOOSE enumeration member" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  <HelpKINode Title="video enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="vidoeConference enumeration member" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="watchasayin namespace" Url="html/601e701a-9388-28ae-97f9-4a166f322131.htm" />
+  <HelpKINode Title="watchasayin.Bottom namespace" Url="html/b503b687-5299-996d-d8be-3f19747845b7.htm" />
+  <HelpKINode Title="watchasayin.Bottom.ExceptionConnectionSelectionFailed class" Url="html/4a7491d2-24b6-b2a2-1ac8-87efa90978dc.htm" />
+  <HelpKINode Title="watchasayin.Bottom.ExceptionConnectionSelectionFailed class" Url="html/7dc4a55d-30c4-5b89-5a35-fecb91db1db4.htm" />
+  <HelpKINode Title="watchasayin.Bottom.ExceptionEncryptionSetUpFailed class" Url="html/239b7d4a-0e5e-080c-fe9f-0b558e84f336.htm" />
+  <HelpKINode Title="watchasayin.Bottom.ExceptionEncryptionSetUpFailed class" Url="html/241cb1a2-aca2-5a1c-3240-9583fdf429a9.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IBottom interface" Url="html/0c5b2ccf-9631-55b2-ce1d-6faac375564b.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IBottom interface" Url="html/13a872c1-aad5-2595-6168-28568f0df007.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IBottomExternalCommunication interface" Url="html/46e6abcc-439b-975b-2b99-e0ac0a93af8d.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IBottomExternalCommunication interface" Url="html/829cf52b-8704-1e6e-02ad-d9e8ece5a546.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IBottomExternalCommunicationSpecific interface" Url="html/d44e43d8-302f-39b8-5da0-69dca37d1911.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IBottomExternalCommunicationSpecific interface" Url="html/e83a1d31-cb99-6c4f-88fa-856e2c1db5e9.htm" />
+  <HelpKINode Title="watchasayin.Bottom.InProcess class" Url="html/406068cd-31b6-6dec-9fe2-35d31b5dd80e.htm" />
+  <HelpKINode Title="watchasayin.Bottom.InProcess class" Url="html/a308dc35-4a0a-66a5-93b3-ef22f5a33143.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IUserIO interface" Url="html/b1f90778-0344-0338-187e-adf7f1505af0.htm" />
+  <HelpKINode Title="watchasayin.Bottom.IUserIO interface" Url="html/cdc92d53-2f95-230f-fa6c-6233e4aae9d2.htm" />
+  <HelpKINode Title="watchasayin.Bottom.Protocol namespace" Url="html/d902ff8b-52d1-3824-b089-fd93b4ecc41b.htm" />
+  <HelpKINode Title="watchasayin.Bottom.Protocol.Session class" Url="html/71d4c0e5-4034-9fe4-a43c-0946bfc5ad5e.htm" />
+  <HelpKINode Title="watchasayin.Bottom.Protocol.Session class" Url="html/9ed11b3e-e56c-d646-ba6d-fd3b7b4e5eac.htm" />
+  <HelpKINode Title="watchasayin.Bottom.TBottomMessage enumeration" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+  <HelpKINode Title="watchasayin.Bottom.TIpProtocol enumeration" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+  <HelpKINode Title="watchasayin.Bottom.TSecurityPolicy enumeration" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  <HelpKINode Title="watchasayin.CryptoKey class" Url="html/b39aaafd-9272-d8c0-65d5-9835e1f8ce2a.htm" />
+  <HelpKINode Title="watchasayin.CryptoKey class" Url="html/e0ebedd8-69e6-0873-1a2f-c4e481c82295.htm" />
+  <HelpKINode Title="watchasayin.DLogWriter delegate" Url="html/9281cf17-2ae9-f0ff-f528-ebaeac22f167.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite namespace" Url="html/e9aa75c9-2c17-c12e-bcec-0c750da63495.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.ExceptionCryptoFailed class" Url="html/072267b9-2358-a998-20b8-02f46889ca86.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.ExceptionCryptoFailed class" Url="html/890dda36-302a-715f-c553-4065d9992c47.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IKryptonite interface" Url="html/2611aa35-5390-b7f4-c66c-b62b9231911f.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IKryptonite interface" Url="html/9d2fdbcf-d778-0af0-8d38-326b61a3c767.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IKryptoniteExternalCommunication interface" Url="html/8b8e0af0-b8e4-15a9-96bd-f9864821568a.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IKryptoniteExternalCommunication interface" Url="html/c61545ce-21e8-d0fc-07e4-df09a16de8ef.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IKryptoniteExternalCommunicationSpecific interface" Url="html/03bf9928-0be5-ad69-1271-7f17b81d54c5.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IKryptoniteExternalCommunicationSpecific interface" Url="html/d812c720-981e-26d7-4c52-d9e4daef1ad7.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IUserIO interface" Url="html/3c189965-cef2-5a18-ecba-d535b7ae9267.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.IUserIO interface" Url="html/4ca33a56-cf44-06e0-9eaa-511c26ecb259.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.SharedLibrary class" Url="html/7fa6111d-8bbd-5897-7584-a68c1df72a59.htm" />
+  <HelpKINode Title="watchasayin.Kryptonite.SharedLibrary class" Url="html/9c2d9c88-7204-e179-ae1e-87a9dfdda7eb.htm" />
+  <HelpKINode Title="watchasayin.Logger class" Url="html/807e173f-2190-bae2-2abe-15d194ed9d20.htm" />
+  <HelpKINode Title="watchasayin.Logger class" Url="html/adf800de-2c23-017c-729c-81e27e61cdb5.htm" />
+  <HelpKINode Title="watchasayin.Surface namespace" Url="html/c8236835-79cb-8dc5-b4f6-a1380481c2e9.htm" />
+  <HelpKINode Title="watchasayin.Surface.DCallEndedHandler delegate" Url="html/b2ee5ff2-7201-5421-f224-9ed5a56cab01.htm" />
+  <HelpKINode Title="watchasayin.Surface.DCallStartedHandler delegate" Url="html/02e3e34e-9c23-2ba1-bd57-d8cd0e65381a.htm" />
+  <HelpKINode Title="watchasayin.Surface.DChatMessageHandler delegate" Url="html/065c6418-1086-3413-f0ca-9f024dbab236.htm" />
+  <HelpKINode Title="watchasayin.Surface.DSendMessageSpecific delegate" Url="html/69b35e30-f70d-d348-465b-a6b60c77a787.htm" />
+  <HelpKINode Title="watchasayin.Surface.ExceptionNotImplemented class" Url="html/c776ed65-393e-39c5-9c18-3de3b0fa6095.htm" />
+  <HelpKINode Title="watchasayin.Surface.ExceptionNotImplemented class" Url="html/dd9136d7-25d6-a795-f041-de67c201d011.htm" />
+  <HelpKINode Title="watchasayin.Surface.GUI namespace" Url="html/eff9b670-2b1d-2378-7ef2-fba019d93d33.htm" />
+  <HelpKINode Title="watchasayin.Surface.GUI.FormMain class" Url="html/0f975e3f-e87f-f0d4-88db-10998d933241.htm" />
+  <HelpKINode Title="watchasayin.Surface.GUI.FormMain class" Url="html/b2c098e9-6aee-57ab-c7db-57d63bf2f678.htm" />
+  <HelpKINode Title="watchasayin.Surface.IModule interface" Url="html/532bf51b-e1cd-96a5-6fd6-a0beebf32cc1.htm" />
+  <HelpKINode Title="watchasayin.Surface.IModule interface" Url="html/89c0b4b5-0110-2105-cc14-a11197cd2057.htm" />
+  <HelpKINode Title="watchasayin.Surface.IModuleExternalCommunicationSpecific interface" Url="html/2af6db3f-1efd-8bc8-b4d7-bbc604b47c9a.htm" />
+  <HelpKINode Title="watchasayin.Surface.IModuleExternalCommunicationSpecific interface" Url="html/bdcb8317-4da3-800d-d511-d1fe553ce3ba.htm" />
+  <HelpKINode Title="watchasayin.Surface.Protocol namespace" Url="html/53296e50-374a-9cd4-5fff-e57e8a27e9db.htm" />
+  <HelpKINode Title="watchasayin.Surface.Protocol.Session class" Url="html/7c49b5e3-dca3-e996-09ed-cc90290f2dbf.htm" />
+  <HelpKINode Title="watchasayin.Surface.Protocol.Session class" Url="html/a42eab80-2d69-b2e0-f2dc-648acc05157b.htm" />
+  <HelpKINode Title="watchasayin.Surface.TSession enumeration" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+  <HelpKINode Title="watchasayin.Surface.TSurfaceMessage enumeration" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  <HelpKINode Title="watchasayin.TCryptoAlgo enumeration" Url="html/57463af8-c56b-8a82-6bc7-d52ed405512c.htm" />
+  <HelpKINode Title="watchasayin.TGenericMessage enumeration" Url="html/957d669e-ab55-ab91-76c1-4294e55e7cc4.htm" />
+  <HelpKINode Title="watchasayin.TLogLevel enumeration" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+  <HelpKINode Title="watchasayin.WSMessage(Of TMessage) class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm" />
+  <HelpKINode Title="watchasayin.WSMessage(Of TMessage) class" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+  <HelpKINode Title="watchasayin.WSMessage&lt;TMessage&gt; class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm" />
+  <HelpKINode Title="watchasayin.WSMessage&lt;TMessage&gt; class" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage) class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage) class" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage) class">
+    <HelpKINode Title="about WSMessage(Of TMessage) class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm" />
+    <HelpKINode Title="all members" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+    <HelpKINode Title="constructor" Url="html/47c664d4-1e8a-2ea4-aa50-fe80adb700dd.htm" />
+    <HelpKINode Title="fields" Url="html/16a643ff-8da5-8cbd-e267-1df7ea88ef3c.htm" />
+    <HelpKINode Title="methods" Url="html/f32316cf-c0f5-4461-c9e0-54530e03c6f3.htm" />
+    <HelpKINode Title="properties" Url="html/89e10843-f970-15cb-d6b6-054b9dcbd9ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WSMessage(Of TMessage).intToMessageType method" Url="html/84dc823d-7123-73f8-663a-fc1389ba76f7.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).payload property" Url="html/77673d1c-41c5-0cb1-acf5-b560f5559d1f.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).text property" Url="html/a8740ad6-d670-f2db-7312-d6d6cc0fbeea.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).type property" Url="html/9763ce2e-010b-2381-4630-cad6e6d3e417.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).valid property" Url="html/25db9d12-c4d2-b941-dc95-e6d051fa8056.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).validType method" Url="html/ea626c2a-abe6-9e45-a95d-1dd956090f4a.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).WSMessage constructor" Url="html/47c664d4-1e8a-2ea4-aa50-fe80adb700dd.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).xml property" Url="html/ee4cbed8-781e-0c87-ffa0-16aa3ce92750.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).xmlDoc field" Url="html/edfdc5a6-00a3-f39c-f0b2-e89e4843cb57.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage).XML_MSG_IDENTIFIER property" Url="html/d21ae9a3-4883-6196-9c91-5d04333b6912.htm" />
+  <HelpKINode Title="WSMessage(Of TMessage)._valid field" Url="html/a34b197b-da72-3371-d5c2-769de3611903.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt; class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt; class" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt; class">
+    <HelpKINode Title="about WSMessage&lt;TMessage&gt; class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm" />
+    <HelpKINode Title="all members" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+    <HelpKINode Title="constructor" Url="html/47c664d4-1e8a-2ea4-aa50-fe80adb700dd.htm" />
+    <HelpKINode Title="fields" Url="html/16a643ff-8da5-8cbd-e267-1df7ea88ef3c.htm" />
+    <HelpKINode Title="methods" Url="html/f32316cf-c0f5-4461-c9e0-54530e03c6f3.htm" />
+    <HelpKINode Title="properties" Url="html/89e10843-f970-15cb-d6b6-054b9dcbd9ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.intToMessageType method" Url="html/84dc823d-7123-73f8-663a-fc1389ba76f7.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.payload property" Url="html/77673d1c-41c5-0cb1-acf5-b560f5559d1f.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.text property" Url="html/a8740ad6-d670-f2db-7312-d6d6cc0fbeea.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.type property" Url="html/9763ce2e-010b-2381-4630-cad6e6d3e417.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.valid property" Url="html/25db9d12-c4d2-b941-dc95-e6d051fa8056.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.validType method" Url="html/ea626c2a-abe6-9e45-a95d-1dd956090f4a.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.WSMessage constructor" Url="html/47c664d4-1e8a-2ea4-aa50-fe80adb700dd.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.xml property" Url="html/ee4cbed8-781e-0c87-ffa0-16aa3ce92750.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.xmlDoc field" Url="html/edfdc5a6-00a3-f39c-f0b2-e89e4843cb57.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;.XML_MSG_IDENTIFIER property" Url="html/d21ae9a3-4883-6196-9c91-5d04333b6912.htm" />
+  <HelpKINode Title="WSMessage&lt;TMessage&gt;._valid field" Url="html/a34b197b-da72-3371-d5c2-769de3611903.htm" />
+  <HelpKINode Title="xml property" Url="html/ee4cbed8-781e-0c87-ffa0-16aa3ce92750.htm" />
+  <HelpKINode Title="xmlDoc field" Url="html/edfdc5a6-00a3-f39c-f0b2-e89e4843cb57.htm" />
+  <HelpKINode Title="XML_MSG_IDENTIFIER property" Url="html/d21ae9a3-4883-6196-9c91-5d04333b6912.htm" />
+  <HelpKINode Title="_valid field" Url="html/a34b197b-da72-3371-d5c2-769de3611903.htm" />
+</HelpKI>

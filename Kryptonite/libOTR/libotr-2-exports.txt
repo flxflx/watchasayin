@@ -1,0 +1,135 @@
+Microsoft (R) COFF/PE Dumper Version 10.00.30319.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file libotr-2.dll
+
+File Type: DLL
+
+  Section contains the following exports for libotr-2.dll
+
+    00000000 characteristics
+    4D22FF78 time date stamp Tue Jan 04 12:07:36 2011
+        0.00 version
+           1 ordinal base
+          97 number of functions
+          97 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00010410 _get_output_format
+          2    1 00014020 otrl_api_version
+          3    2 000086D0 otrl_auth_clear
+          4    3 00009E40 otrl_auth_handle_commit
+          5    4 00009A90 otrl_auth_handle_key
+          6    5 00009420 otrl_auth_handle_revealsig
+          7    6 00009220 otrl_auth_handle_signature
+          8    7 00008C30 otrl_auth_handle_v1_key_exchange
+          9    8 00008850 otrl_auth_new
+         10    9 000091B0 otrl_auth_start_v1
+         11    A 00008970 otrl_auth_start_v2
+         12    B 00004880 otrl_base64_decode
+         13    C 00004780 otrl_base64_encode
+         14    D 00004910 otrl_base64_otr_decode
+         15    E 000049A0 otrl_base64_otr_encode
+         16    F 00002B30 otrl_context_find
+         17   10 00002A40 otrl_context_find_fingerprint
+         18   11 00002610 otrl_context_force_finished = _otrl_init
+         19   12 000027B0 otrl_context_force_plaintext
+         20   13 000027D0 otrl_context_forget
+         21   14 000028B0 otrl_context_forget_all
+         22   15 000028E0 otrl_context_forget_fingerprint
+         23   16 00002980 otrl_context_set_preshared_secret
+         24   17 00002A00 otrl_context_set_trust
+         25   18 00004A60 otrl_dh_cmpctr
+         26   19 00004D00 otrl_dh_compute_v1_session_id
+         27   1A 00004E80 otrl_dh_compute_v2_auth_keys
+         28   1B 00004C70 otrl_dh_gen_keypair
+         29   1C 00004A30 otrl_dh_incctr
+         30   1D 00004C10 otrl_dh_init
+         31   1E 00004BD0 otrl_dh_keypair_copy = _set_smp_trust
+         32   1F 00004B90 otrl_dh_keypair_free
+         33   20 00004A10 otrl_dh_keypair_init
+         34   21 000052B0 otrl_dh_session
+         35   22 00004A90 otrl_dh_session_blank = _maybe_resend
+         36   23 00004B50 otrl_dh_session_free
+         37   24 00003610 otrl_init
+         38   25 00005540 otrl_mem_init
+         39   26 00005A00 otrl_message_abort_smp
+         40   27 00005710 otrl_message_disconnect
+         41   28 00005810 otrl_message_fragment_and_send
+         42   29 00005700 otrl_message_free
+         43   2A 00006070 otrl_message_initiate_smp
+         44   2B 00006030 otrl_message_initiate_smp_q
+         45   2C 000060B0 otrl_message_receiving
+         46   2D 00005FF0 otrl_message_respond_smp
+         47   2E 000074F0 otrl_message_sending
+         48   2F 00001340 otrl_privkey_find
+         49   30 000022D0 otrl_privkey_fingerprint
+         50   31 000021F0 otrl_privkey_fingerprint_raw
+         51   32 000012C0 otrl_privkey_forget
+         52   33 00001310 otrl_privkey_forget_all
+         53   34 00002120 otrl_privkey_generate
+         54   35 00001FD0 otrl_privkey_generate_FILEp
+         55   36 00002240 otrl_privkey_hash_to_human
+         56   37 00002190 otrl_privkey_read
+         57   38 00001840 otrl_privkey_read_FILEp
+         58   39 000016A0 otrl_privkey_read_fingerprints
+         59   3A 000014E0 otrl_privkey_read_fingerprints_FILEp
+         60   3B 00002440 otrl_privkey_sign
+         61   3C 00002330 otrl_privkey_verify
+         62   3D 00001480 otrl_privkey_write_fingerprints
+         63   3E 000013B0 otrl_privkey_write_fingerprints_FILEp
+         64   3F 00003850 otrl_proto_accept_data
+         65   40 00004150 otrl_proto_create_data
+         66   41 00004030 otrl_proto_data_read_flags
+         67   42 00003590 otrl_proto_default_query_msg
+         68   43 00002FA0 otrl_proto_fragment_accumulate
+         69   44 00003690 otrl_proto_fragment_create
+         70   45 00002EC0 otrl_proto_fragment_free
+         71   46 00003350 otrl_proto_message_type
+         72   47 00002F20 otrl_proto_query_bestversion
+         73   48 000034B0 otrl_proto_whitespace_bestversion
+         74   49 0000B010 otrl_sm_init
+         75   4A 0000A3C0 otrl_sm_msg1_init
+         76   4B 0000A310 otrl_sm_msg2_init
+         77   4C 0000A280 otrl_sm_msg3_init
+         78   4D 0000A230 otrl_sm_msg4_init
+         79   4E 0000A5D0 otrl_sm_msg_free
+         80   4F 0000A1A0 otrl_sm_state_free
+         81   50 0000AF50 otrl_sm_state_init = ___pformat_emit_radix_point
+         82   51 0000A130 otrl_sm_state_new
+         83   52 0000B0A0 otrl_sm_step1
+         84   53 0000BA50 otrl_sm_step2a = ___pformat_emit_xfloat
+         85   54 0000B890 otrl_sm_step2b
+         86   55 0000B520 otrl_sm_step3
+         87   56 0000B2C0 otrl_sm_step4
+         88   57 0000B1D0 otrl_sm_step5
+         89   58 000079E0 otrl_tlv_find
+         90   59 00007A70 otrl_tlv_free
+         91   5A 00007AB0 otrl_tlv_new
+         92   5B 00007B50 otrl_tlv_parse
+         93   5C 00007A00 otrl_tlv_serialize
+         94   5D 000079B0 otrl_tlv_seriallen
+         95   5E 00007980 otrl_userstate_create
+         96   5F 00007950 otrl_userstate_free
+         97   60 00002EB0 otrl_version
+
+  Summary
+
+        1000 .bss
+        1000 .data
+        2000 .debug_abbrev
+        1000 .debug_aranges
+        2000 .debug_frame
+       1C000 .debug_info
+        3000 .debug_line
+        A000 .debug_loc
+        1000 .debug_pubnames
+        1000 .debug_ranges
+        1000 .debug_str
+        1000 .edata
+        1000 .idata
+        2000 .rdata
+        1000 .reloc
+       10000 .text

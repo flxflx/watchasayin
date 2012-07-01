@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="Surface.exe" version="1.0.0.0" processorArchitecture="x86" type="win32" />
+  <file name="Skype4COM.dll" asmv2:size="2254216">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>886jAFh+6D83S+1ypfTgscn7Qas=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" version="1.0" helpdir="C:\Users\Felix\Uni\Diplomarbeit\Workspaces\watchasayin\Surface\skype4com-1.0.36\Skype4COM.chm" resourceid="0" flags="HASDISKIMAGE" />
+    <comClass clsid="{830690fc-bf2f-47a6-ac2d-330bcb402664}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Skype.1" description="Skype class." />
+    <comClass clsid="{3e01d8e0-a72b-4c9f-99bd-8a6e7b97a48d}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.User.1" description="User class." />
+    <comClass clsid="{7b030003-037d-490d-9169-a4f391b3d831}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.UserCollection.1" description="User collection class." />
+    <comClass clsid="{2eeab6d0-491e-4962-bba1-ff1cca6d4dd0}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Conversion.1" description="Conversion class." />
+    <comClass clsid="{d26b1d42-9c42-4e7b-bb73-86384c4b4345}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Call.1" description="Call class." />
+    <comClass clsid="{f3188cf3-ef22-4c5b-92cb-605964761c3b}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.CallCollection.1" description="Call collection class." />
+    <comClass clsid="{7acdc5b4-76a1-4bdf-918d-6962fcabbad3}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Chat.1" description="Chat class." />
+    <comClass clsid="{15b6fee5-5fb3-4071-ac1f-7aedc0e2a6bb}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ChatCollection.1" description="Chat collection class." />
+    <comClass clsid="{52071016-e648-4d3b-b57e-2b46cc993ce0}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Participant.1" description="Conference call participant class." />
+    <comClass clsid="{e1bc9147-c3e3-4e8a-8304-5e6b5c1c0774}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ParticipantCollection.1" description="Participants collection class." />
+    <comClass clsid="{a983c9ec-d73e-4364-b89b-acd1e405674f}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Conference.1" description="Conference class" />
+    <comClass clsid="{3506cdb7-8bc6-40c0-b108-cea0b9480130}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ConferenceCollection.1" description="Conference collection class." />
+    <comClass clsid="{dd0e8ed5-1494-4b87-a35c-39f6ed4b1153}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Voicemail.1" description="Voicemail class" />
+    <comClass clsid="{a7df2611-d752-4c9f-a90a-b56f18485ee9}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.VoicemailCollection.1" description="Voicemail collection class" />
+    <comClass clsid="{29dcd339-d184-469b-8bfb-199a2ccf014e}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Application.1" description="Application class." />
+    <comClass clsid="{6fa10a39-4760-4c94-a210-2398848618ec}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ApplicationStream.1" description="Application stream class." />
+    <comClass clsid="{4b42750b-57a1-47e7-b340-8eae0e3126a4}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ApplicationStreamCollection.1" description="Application stream collection class." />
+    <comClass clsid="{9017071a-2e34-4c3a-9bbb-688cbb5a9ff2}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ChatMessage.1" description="Chat message class." />
+    <comClass clsid="{10dd084e-a5ae-456f-a3be-da67ebe6b090}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.ChatMessageCollection.1" description="Chat message collection class." />
+    <comClass clsid="{452ccb69-6a95-4370-9e5a-b3efb06a7651}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Profile.1" description="Current user profile class." />
+    <comClass clsid="{222c0f35-3d78-4570-9f6d-baee289d0304}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Group.1" description="Contact group class." />
+    <comClass clsid="{a8109db9-88e0-42fe-98ea-8a12be5394c6}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.GroupCollection.1" description="Contact groups collection class." />
+    <comClass clsid="{b0fe88f0-c92f-46d6-878f-31599bea944c}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Settings.1" description="User settings class." />
+    <comClass clsid="{b09ac3ff-0d5d-41c6-a34e-7c3f58a3127c}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Client.1" description="Skype user interface class." />
+    <comClass clsid="{2dbcda9f-1248-400b-a382-a56d71bf7b15}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.Command.1" description="Command class." />
+    <comClass clsid="{89dd2f9d-c325-48bf-a615-96bd039bbc83}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.CallChannel.1" description="Call data channel." />
+    <comClass clsid="{42fe718b-a148-41d6-885b-01a0afae8723}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.CallChannelCollection.1" description="Call channel collection class." />
+    <comClass clsid="{5e541e71-a474-4ead-8fcb-24d400d023b7}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.CallChannelManager.1" description="Call data channel manager." />
+    <comClass clsid="{3d3e7c1b-79a7-4cc7-8925-41fa813e9913}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.CallChannelMessage.1" description="Call data channel message." />
+    <comClass clsid="{ffc8b962-9b40-4dff-9458-1830c7dd7f5d}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.IEProtocolHandler.1" description="IEProtocolHandler Class" />
+    <comClass clsid="{f278d870-7af7-4957-96ee-e6ac72d0b109}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.SmsMessage.1" description="SMS message." />
+    <comClass clsid="{1bca4635-f1fc-44c8-b829-48229aeb32e3}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.SmsMessageCollection.1" description="SMS message collection." />
+    <comClass clsid="{5792fc7d-5e1d-4f1a-bd4f-a7a50f92bc6e}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.SmsChunk.1" description="SMS chunk." />
+    <comClass clsid="{cc461fc3-c9be-41fb-8e47-e0115cbc01cc}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.SmsChunkCollection.1" description="SMS chunk collection." />
+    <comClass clsid="{61f8faf0-82d0-407c-ae97-31441483ae40}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.SmsTarget.1" description="SMS target." />
+    <comClass clsid="{6ac51e9c-7947-4b46-a978-0ad601c4efc9}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.SmsTargetCollection.1" description="SMS target collection." />
+    <comClass clsid="{9d073235-d787-497d-8d1f-929559f1c621}" threadingModel="Apartment" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}" progid="Skype4COM.PluginEvent.1" description="Plugin event class." />
+  </file>
+  <comInterfaceExternalProxyStub iid="{B1878BFE-53D3-402E-8C86-190B19AF70D5}" name="Skype4COM" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" baseInterface="{00000000-0000-0000-C000-000000000046}" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}"/>
+  <comInterfaceExternalProxyStub iid="{D0BC5168-A518-4192-9D20-0B907B23C4D1}" name="Skype4COM" proxyStubClsid32="{00020424-0000-0000-C000-000000000046}" baseInterface="{00000000-0000-0000-C000-000000000046}" tlbid="{03282b5d-b38f-469d-849a-09b0a7f4881b}"/>
+</assembly>

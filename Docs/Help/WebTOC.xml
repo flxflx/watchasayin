@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="615ab3d1-f98f-47b6-9aea-2a3ed629061a" Title="watchasayin Namespace" Url="html/601e701a-9388-28ae-97f9-4a166f322131.htm">
+    <HelpTOCNode Id="dcaed7df-92fb-41a8-acbb-cb4af026dd66" Title="CryptoKey Class" Url="html/e0ebedd8-69e6-0873-1a2f-c4e481c82295.htm">
+      <HelpTOCNode Title="CryptoKey Members" Url="html/b39aaafd-9272-d8c0-65d5-9835e1f8ce2a.htm" />
+      <HelpTOCNode Title="CryptoKey Constructor " Url="html/eea5ad37-c4ca-06ea-68fc-1f7dcf43abdc.htm" />
+      <HelpTOCNode Id="67c56e94-421c-40df-9561-97770276c66c" Title="CryptoKey Methods" Url="html/6bae7a9d-b161-8299-7268-20e2ae8f505e.htm">
+        <HelpTOCNode Title="getRawKey Method " Url="html/db4eee65-6c7b-8009-3ab6-b1bda8a3b448.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3b11235c-fb58-4e6b-a783-785672ee226a" Title="CryptoKey Properties" Url="html/96aff6a1-54a5-1e39-5a4a-d363e1e84306.htm">
+        <HelpTOCNode Title="algorithm Property " Url="html/8e06277f-f55e-fdae-9d39-8150d348cc2d.htm" />
+        <HelpTOCNode Title="bitStrength Property " Url="html/67b92af5-57d7-9a0a-ca99-7e96dbfa1ea3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="DLogWriter Delegate" Url="html/9281cf17-2ae9-f0ff-f528-ebaeac22f167.htm" />
+    <HelpTOCNode Id="213271d0-d71a-495e-8f45-9203a7267346" Title="Logger Class" Url="html/807e173f-2190-bae2-2abe-15d194ed9d20.htm">
+      <HelpTOCNode Title="Logger Members" Url="html/adf800de-2c23-017c-729c-81e27e61cdb5.htm" />
+      <HelpTOCNode Id="67e684ba-3f45-437d-9c68-6d6f420a58e8" Title="Logger Fields" Url="html/080e64af-581a-f4a8-eecb-7855a8e5f7af.htm">
+        <HelpTOCNode Title="logLevel Field" Url="html/8d422705-f592-5c75-e97d-84b53aacd2b7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="86ec5829-e3d6-4255-8f53-d6442d78f3e7" Title="Logger Methods" Url="html/5dadcf14-934e-93ed-a609-1971c8dcf389.htm">
+        <HelpTOCNode Id="b7bfad3c-95ac-4e09-b967-07d89c5e8e47" Title="log Method " Url="html/94a064a9-6879-19be-fe3a-bf8300093534.htm">
+          <HelpTOCNode Title="log Method (TLogLevel, String)" Url="html/4839163f-fb45-efb0-77a0-56fd4b7284c4.htm" />
+          <HelpTOCNode Title="log Method (TLogLevel, String[])" Url="html/a4215b89-984a-2a9e-81aa-0b43607f96c0.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="260b81c0-021e-455e-ab51-97be5dcce3a2" Title="Logger Properties" Url="html/819382d8-efe8-6dda-0c66-faf1928a8c88.htm">
+        <HelpTOCNode Title="logWriter Property " Url="html/a6d01282-507b-d79e-2345-aa949be25c8c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TCryptoAlgo Enumeration" Url="html/57463af8-c56b-8a82-6bc7-d52ed405512c.htm" />
+    <HelpTOCNode Title="TGenericMessage Enumeration" Url="html/957d669e-ab55-ab91-76c1-4294e55e7cc4.htm" />
+    <HelpTOCNode Title="TLogLevel Enumeration" Url="html/9592f21b-4f49-2da7-7644-c96a6f2c41ff.htm" />
+    <HelpTOCNode Id="1df6aff1-3851-48b7-8e7b-90bf3e1e5257" Title="WSMessage(TMessage) Class" Url="html/0bf18801-6d2c-315c-ad8b-2d267ec3a19a.htm">
+      <HelpTOCNode Title="WSMessage(TMessage) Members" Url="html/dc9d7bdd-afe0-6e54-0d7c-b125e4244457.htm" />
+      <HelpTOCNode Id="a216dad7-e5f3-4f7c-8b8e-1514c6f085d5" Title="WSMessage(TMessage) Constructor " Url="html/47c664d4-1e8a-2ea4-aa50-fe80adb700dd.htm">
+        <HelpTOCNode Title="WSMessage(TMessage) Constructor (Int32)" Url="html/e1311a67-d2cd-ef5b-fbdf-4e6ae6c4936f.htm" />
+        <HelpTOCNode Title="WSMessage(TMessage) Constructor (String)" Url="html/0ecd6413-b5c5-6185-901b-353e649c3ae5.htm" />
+        <HelpTOCNode Title="WSMessage(TMessage) Constructor (XmlDocument)" Url="html/9d0fb0ec-15fd-1095-80bf-8f14aa20ca2f.htm" />
+        <HelpTOCNode Title="WSMessage(TMessage) Constructor (Int32, String)" Url="html/793b66d3-4962-b7d3-d44b-5034c1c54956.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c335b870-500c-4615-91ce-8fcbab3c87c4" Title="WSMessage(TMessage) Fields" Url="html/16a643ff-8da5-8cbd-e267-1df7ea88ef3c.htm">
+        <HelpTOCNode Title="_valid Field" Url="html/a34b197b-da72-3371-d5c2-769de3611903.htm" />
+        <HelpTOCNode Title="xmlDoc Field" Url="html/edfdc5a6-00a3-f39c-f0b2-e89e4843cb57.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5d07651e-3b2b-441e-8482-e20cb8542eba" Title="WSMessage(TMessage) Methods" Url="html/f32316cf-c0f5-4461-c9e0-54530e03c6f3.htm">
+        <HelpTOCNode Title="intToMessageType Method " Url="html/84dc823d-7123-73f8-663a-fc1389ba76f7.htm" />
+        <HelpTOCNode Title="validType Method " Url="html/ea626c2a-abe6-9e45-a95d-1dd956090f4a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b174547e-8c0b-4b20-9f58-b27d893b53dc" Title="WSMessage(TMessage) Properties" Url="html/89e10843-f970-15cb-d6b6-054b9dcbd9ba.htm">
+        <HelpTOCNode Title="payload Property " Url="html/77673d1c-41c5-0cb1-acf5-b560f5559d1f.htm" />
+        <HelpTOCNode Title="text Property " Url="html/a8740ad6-d670-f2db-7312-d6d6cc0fbeea.htm" />
+        <HelpTOCNode Title="type Property " Url="html/9763ce2e-010b-2381-4630-cad6e6d3e417.htm" />
+        <HelpTOCNode Title="valid Property " Url="html/25db9d12-c4d2-b941-dc95-e6d051fa8056.htm" />
+        <HelpTOCNode Title="xml Property " Url="html/ee4cbed8-781e-0c87-ffa0-16aa3ce92750.htm" />
+        <HelpTOCNode Title="XML_MSG_IDENTIFIER Property " Url="html/d21ae9a3-4883-6196-9c91-5d04333b6912.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="15f4ccf4-0b88-4696-a273-67df19ba65c9" Title="watchasayin.Bottom Namespace" Url="html/b503b687-5299-996d-d8be-3f19747845b7.htm">
+    <HelpTOCNode Id="426e7acf-5547-4158-82bf-1b11262c44ef" Title="ExceptionConnectionSelectionFailed Class" Url="html/7dc4a55d-30c4-5b89-5a35-fecb91db1db4.htm">
+      <HelpTOCNode Title="ExceptionConnectionSelectionFailed Members" Url="html/4a7491d2-24b6-b2a2-1ac8-87efa90978dc.htm" />
+      <HelpTOCNode Id="09e02a78-c467-46cc-b860-497758c40e14" Title="ExceptionConnectionSelectionFailed Constructor " Url="html/08b8f1e8-2cfc-5697-a413-006246778edc.htm">
+        <HelpTOCNode Title="ExceptionConnectionSelectionFailed Constructor " Url="html/c98a8bad-466d-6257-dad3-f8e86313e173.htm" />
+        <HelpTOCNode Title="ExceptionConnectionSelectionFailed Constructor (String)" Url="html/6ff1c545-71c9-f785-8100-f6db30409e78.htm" />
+        <HelpTOCNode Title="ExceptionConnectionSelectionFailed Constructor (SerializationInfo, StreamingContext)" Url="html/858b9cf5-5d3d-1e1b-d73f-b038a943ff1a.htm" />
+        <HelpTOCNode Title="ExceptionConnectionSelectionFailed Constructor (String, Exception)" Url="html/c83143d8-9465-c962-6dfd-269f1f2ee463.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExceptionConnectionSelectionFailed Methods" Url="html/227cbbfd-7b79-3e9c-3a90-5694dda63436.htm" />
+      <HelpTOCNode Title="ExceptionConnectionSelectionFailed Properties" Url="html/e7107f8d-ad91-7361-f3dd-53225d86a9df.htm" />
+      <HelpTOCNode Title="ExceptionConnectionSelectionFailed Events" Url="html/079c5a00-c791-b60a-04e5-bf296a89e0b1.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a7fcec93-c77e-4718-be3b-e36150d4cf9d" Title="ExceptionEncryptionSetUpFailed Class" Url="html/239b7d4a-0e5e-080c-fe9f-0b558e84f336.htm">
+      <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Members" Url="html/241cb1a2-aca2-5a1c-3240-9583fdf429a9.htm" />
+      <HelpTOCNode Id="80c0f9a0-4d1a-407c-851e-db19d8f48d71" Title="ExceptionEncryptionSetUpFailed Constructor " Url="html/2457425e-6eed-1d42-7a89-1f6e12a16532.htm">
+        <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Constructor " Url="html/d0d82c3e-1bc0-886d-487a-77b36f0f7fc0.htm" />
+        <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Constructor (String)" Url="html/8b2b8e8d-2145-ec86-d80c-447fc155ebb1.htm" />
+        <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Constructor (SerializationInfo, StreamingContext)" Url="html/7b4f96a1-2f84-681a-a7ee-7fa07eea6510.htm" />
+        <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Constructor (String, Exception)" Url="html/793cf5d3-8ec7-d3c2-52ff-a3d2f9aa2add.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Methods" Url="html/4af61b54-d232-c43a-cb53-57e966af351f.htm" />
+      <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Properties" Url="html/6cd51206-51a3-5234-8fa8-9810d13a515e.htm" />
+      <HelpTOCNode Title="ExceptionEncryptionSetUpFailed Events" Url="html/2e1bcafe-003b-ea6e-df3d-cccf6bb94f64.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="45c8d228-95fc-445d-86ff-ebb80a11889f" Title="IBottom Interface" Url="html/0c5b2ccf-9631-55b2-ce1d-6faac375564b.htm">
+      <HelpTOCNode Title="IBottom Members" Url="html/13a872c1-aad5-2595-6168-28568f0df007.htm" />
+      <HelpTOCNode Title="IBottom Methods" Url="html/c3dbbe3e-df03-1bd0-c563-2094512dfadf.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="17cab350-7389-4a7d-ab5f-533b128939ad" Title="IBottomExternalCommunication Interface" Url="html/46e6abcc-439b-975b-2b99-e0ac0a93af8d.htm">
+      <HelpTOCNode Title="IBottomExternalCommunication Members" Url="html/829cf52b-8704-1e6e-02ad-d9e8ece5a546.htm" />
+      <HelpTOCNode Id="c89e8ac7-b7d7-4c20-8fb6-96a732df5134" Title="IBottomExternalCommunication Methods" Url="html/2eed615d-de3d-e450-9ee5-bf07f0d746b4.htm">
+        <HelpTOCNode Title="getSpecificInstance Method " Url="html/57217568-b591-6403-ecce-43617edfb7c1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="306b8d86-93bc-48fc-a86c-b51992729ba8" Title="IBottomExternalCommunicationSpecific Interface" Url="html/d44e43d8-302f-39b8-5da0-69dca37d1911.htm">
+      <HelpTOCNode Title="IBottomExternalCommunicationSpecific Members" Url="html/e83a1d31-cb99-6c4f-88fa-856e2c1db5e9.htm" />
+      <HelpTOCNode Id="44a16c3d-8a2a-4fbd-aeb9-6c7682b99390" Title="IBottomExternalCommunicationSpecific Methods" Url="html/2dc76363-8a30-2403-5a08-e776b4fd5497.htm">
+        <HelpTOCNode Title="close Method " Url="html/cd24c927-c5ec-eaf5-6e33-b07f23740812.htm" />
+        <HelpTOCNode Title="encrypt Method " Url="html/4b161bb1-d95f-e672-2fa5-debb4ae4bbf1.htm" />
+        <HelpTOCNode Title="getSupportedKeyAlgorithm Method " Url="html/cbbdcde6-34ac-33c4-128a-84abcd896d71.htm" />
+        <HelpTOCNode Title="getSupportedKeyBitStrength Method " Url="html/f4e43ca1-98bf-7f81-040b-7c0e8933f987.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="IBottomExternalCommunicationSpecific Properties" Url="html/3e62d10c-eff8-70d9-eda1-132d300b4c10.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f354b6f7-94c9-475a-8d37-1bf961ee3ccc" Title="InProcess Class" Url="html/406068cd-31b6-6dec-9fe2-35d31b5dd80e.htm">
+      <HelpTOCNode Title="InProcess Members" Url="html/a308dc35-4a0a-66a5-93b3-ef22f5a33143.htm" />
+      <HelpTOCNode Title="InProcess Constructor " Url="html/ac73128a-138b-5e85-26d4-063f3e3176d7.htm" />
+      <HelpTOCNode Id="be77f442-5cd9-4a30-a882-f0f58776a796" Title="InProcess Methods" Url="html/4d813760-54e2-a2c2-11a6-21292ef36eef.htm">
+        <HelpTOCNode Title="getSpecificInstance Method " Url="html/970796ed-b237-9fcb-9bd1-dd0a20ba8186.htm" />
+        <HelpTOCNode Title="reset Method " Url="html/1ef8f162-58f5-b48e-93b6-4f958a3b8be8.htm" />
+        <HelpTOCNode Title="setUp Method " Url="html/40962074-b829-e467-0ca4-89362649185b.htm" />
+        <HelpTOCNode Title="tearDown Method " Url="html/bfb094ae-dcef-bdfd-d3f0-17075fbdb31a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="608c0ed0-29db-429a-9555-570b9937ec6d" Title="IUserIO Interface" Url="html/cdc92d53-2f95-230f-fa6c-6233e4aae9d2.htm">
+      <HelpTOCNode Title="IUserIO Members" Url="html/b1f90778-0344-0338-187e-adf7f1505af0.htm" />
+      <HelpTOCNode Id="09ad4fe5-ede4-4421-b3c3-ce355ef82b35" Title="IUserIO Methods" Url="html/186b75b8-a8ed-565f-2086-a5c07b63d470.htm">
+        <HelpTOCNode Title="goneInsecure Method " Url="html/9617d1fb-90c0-67ff-3bdd-266006ee27fa.htm" />
+        <HelpTOCNode Title="goneSecure Method " Url="html/83f2233b-3b44-1d44-86a0-9631d348edd8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TBottomMessage Enumeration" Url="html/1c696433-8c1d-fea6-266d-732123bf5c83.htm" />
+    <HelpTOCNode Title="TIpProtocol Enumeration" Url="html/455d28e9-8570-c46e-ba62-af61176d89c0.htm" />
+    <HelpTOCNode Title="TSecurityPolicy Enumeration" Url="html/187c16bb-85bb-505e-b7e4-0e061f77690d.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="2d2fc86b-322e-4fc5-8b4d-0cf315b394e7" Title="watchasayin.Bottom.Protocol Namespace" Url="html/d902ff8b-52d1-3824-b089-fd93b4ecc41b.htm">
+    <HelpTOCNode Id="37b02d2c-d691-4a1e-8b9c-cab56c8ddea9" Title="Session Class" Url="html/9ed11b3e-e56c-d646-ba6d-fd3b7b4e5eac.htm">
+      <HelpTOCNode Title="Session Members" Url="html/71d4c0e5-4034-9fe4-a43c-0946bfc5ad5e.htm" />
+      <HelpTOCNode Title="Session Constructor " Url="html/00f75070-926f-b6e5-1bbf-a8b6bac4d3b1.htm" />
+      <HelpTOCNode Id="0b6031a4-fa43-4557-b27e-631d00c9e96c" Title="Session Methods" Url="html/c0dc9c90-b4d4-2e51-d703-0cf40931609e.htm">
+        <HelpTOCNode Title="abortReceived Method " Url="html/5d24f85f-1419-6d8d-8e06-a9ea461a4fae.htm" />
+        <HelpTOCNode Title="confirmReceived Method " Url="html/a076ca42-48d1-33df-e2c7-512a3d07eb21.htm" />
+        <HelpTOCNode Title="end Method " Url="html/5288b740-5c7d-8bdd-dea0-4446cf696c28.htm" />
+        <HelpTOCNode Title="matchesReceived Method " Url="html/3f91e947-c2f9-6e01-eb48-84ee2d4ab040.htm" />
+        <HelpTOCNode Title="myConnectionsReceived Method " Url="html/3f6d79ba-9730-2f2c-8dfb-882c74acb715.htm" />
+        <HelpTOCNode Title="requestConnectionsReceived Method " Url="html/0559d23d-8fb8-5d7c-3daa-f1e7e95f6883.htm" />
+        <HelpTOCNode Title="start Method " Url="html/3996d07e-e822-51a1-0306-c2dc5336e4bd.htm" />
+        <HelpTOCNode Title="unknownReceived Method " Url="html/04b63d2e-cfa8-53fa-b0a8-fa52f8b7953e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9daf2d02-e8ee-417b-b60b-8b74a3a7f64a" Title="Session Properties" Url="html/ac2d6a52-3f46-55ef-2b1c-4fcfb623f6ae.htm">
+        <HelpTOCNode Title="running Property " Url="html/bc028d18-9d02-2186-3e3b-61f788552887.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="40934d60-e4b7-4db1-871a-e95987836ba4" Title="watchasayin.Kryptonite Namespace" Url="html/e9aa75c9-2c17-c12e-bcec-0c750da63495.htm">
+    <HelpTOCNode Id="c8937b39-b913-4e94-aa99-9105ada929a5" Title="ExceptionCryptoFailed Class" Url="html/072267b9-2358-a998-20b8-02f46889ca86.htm">
+      <HelpTOCNode Title="ExceptionCryptoFailed Members" Url="html/890dda36-302a-715f-c553-4065d9992c47.htm" />
+      <HelpTOCNode Id="381541ff-481b-450f-9102-33a6ed2d6a43" Title="ExceptionCryptoFailed Constructor " Url="html/5fb8a357-41c6-ca69-4d8e-566a1fdc7b1d.htm">
+        <HelpTOCNode Title="ExceptionCryptoFailed Constructor " Url="html/0b8cc070-4573-9d69-2d1e-32791fc53e88.htm" />
+        <HelpTOCNode Title="ExceptionCryptoFailed Constructor (String)" Url="html/9790a65b-697a-d206-02ec-2318a08a2b50.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExceptionCryptoFailed Methods" Url="html/4a78a3bf-c5fe-bfeb-5f3f-46417e5469bc.htm" />
+      <HelpTOCNode Title="ExceptionCryptoFailed Properties" Url="html/d28cd887-7aab-644d-5a0a-34666d7f7e07.htm" />
+      <HelpTOCNode Title="ExceptionCryptoFailed Events" Url="html/7e3fc6d0-bf8c-ad68-b38b-4d4f78a18e39.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a76fdfb6-4b33-4895-95b2-bda8c58363cc" Title="IKryptonite Interface" Url="html/2611aa35-5390-b7f4-c66c-b62b9231911f.htm">
+      <HelpTOCNode Title="IKryptonite Members" Url="html/9d2fdbcf-d778-0af0-8d38-326b61a3c767.htm" />
+      <HelpTOCNode Title="IKryptonite Methods" Url="html/4ce79d8c-8e82-4706-ff32-675eb01179bb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0bd18abc-b175-474f-aecf-00eca278840e" Title="IKryptoniteExternalCommunication Interface" Url="html/8b8e0af0-b8e4-15a9-96bd-f9864821568a.htm">
+      <HelpTOCNode Title="IKryptoniteExternalCommunication Members" Url="html/c61545ce-21e8-d0fc-07e4-df09a16de8ef.htm" />
+      <HelpTOCNode Id="af21af77-415c-4b57-88ab-dd27108448a5" Title="IKryptoniteExternalCommunication Methods" Url="html/53e72e7d-d576-767d-5b57-8f14101b7faf.htm">
+        <HelpTOCNode Title="getSpecificInstance Method " Url="html/2073415a-91ba-ee51-47a5-9974105667c3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="be131f0e-c5a7-40eb-b42a-6091e2704352" Title="IKryptoniteExternalCommunicationSpecific Interface" Url="html/d812c720-981e-26d7-4c52-d9e4daef1ad7.htm">
+      <HelpTOCNode Title="IKryptoniteExternalCommunicationSpecific Members" Url="html/03bf9928-0be5-ad69-1271-7f17b81d54c5.htm" />
+      <HelpTOCNode Id="27a8bd03-30ba-4099-894b-46e6f7751b93" Title="IKryptoniteExternalCommunicationSpecific Methods" Url="html/c1543b50-b5db-2899-4ce9-c1d8934ad404.htm">
+        <HelpTOCNode Title="close Method " Url="html/a0e6dbe3-7280-cd33-62ad-473e5402e877.htm" />
+        <HelpTOCNode Title="decryptMessage Method " Url="html/ad62719b-c337-a14c-d8c8-b6630999ba64.htm" />
+        <HelpTOCNode Title="encryptMessage Method " Url="html/56587e8c-1ee5-4412-1970-1b67569ac956.htm" />
+        <HelpTOCNode Title="establishSecureConnection Method " Url="html/e570de49-c901-b9ce-9a31-ccbf7ed228fa.htm" />
+        <HelpTOCNode Title="getSessionKey Method " Url="html/931227d7-8984-f6db-e6ff-419134df9be6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a6356688-c3d1-4323-a644-6d9a0fedce59" Title="IKryptoniteExternalCommunicationSpecific Properties" Url="html/1c719ad7-2b16-ab57-4f6f-cb14b1abab08.htm">
+        <HelpTOCNode Title="isSecure Property " Url="html/b5ec6d9a-59d9-270e-8ed5-94ab1ab0c402.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4d9027fa-ca59-4028-9706-149f27ed1a12" Title="IUserIO Interface" Url="html/4ca33a56-cf44-06e0-9eaa-511c26ecb259.htm">
+      <HelpTOCNode Title="IUserIO Members" Url="html/3c189965-cef2-5a18-ecba-d535b7ae9267.htm" />
+      <HelpTOCNode Id="33f528c3-05e7-43e4-8c17-506e4e08c580" Title="IUserIO Methods" Url="html/f8580ef6-e5ce-6606-b248-b56c26334404.htm">
+        <HelpTOCNode Title="akeSuccessful Method " Url="html/f8ca2c8f-785f-2bef-3dfb-0a2aea96528c.htm" />
+        <HelpTOCNode Title="confirmNewFingerprint Method " Url="html/ce3949aa-40f8-f1f4-3418-0f0910235305.htm" />
+        <HelpTOCNode Title="displayNotification Method " Url="html/7edfb4c1-ac15-009b-915a-bd47cdc1388a.htm" />
+        <HelpTOCNode Title="displayOwnFingerprint Method " Url="html/b4d5b933-9944-82dc-6b48-2d011d442377.htm" />
+        <HelpTOCNode Title="fingerprintsInvalid Method " Url="html/b43c9651-25ca-ada6-b791-a9140a5cffff.htm" />
+        <HelpTOCNode Title="noFingerprintsFound Method " Url="html/9ca05713-ef1a-4720-f6ab-9dc95d33fc7c.htm" />
+        <HelpTOCNode Title="noPrivateKeyFound Method " Url="html/9f0fd87b-15fc-7a92-e14f-4f24f0d3cd60.htm" />
+        <HelpTOCNode Title="privateKeyInvalid Method " Url="html/b9cc24bf-21d4-7e42-edba-fd198876e9a4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0228db15-7dfb-4db2-a7d1-8e86853d4133" Title="SharedLibrary Class" Url="html/7fa6111d-8bbd-5897-7584-a68c1df72a59.htm">
+      <HelpTOCNode Title="SharedLibrary Members" Url="html/9c2d9c88-7204-e179-ae1e-87a9dfdda7eb.htm" />
+      <HelpTOCNode Title="SharedLibrary Constructor " Url="html/e924a659-30c2-d691-9cdd-b9d2889b911a.htm" />
+      <HelpTOCNode Id="403af4d3-9caa-429e-95a3-d1a97b24961d" Title="SharedLibrary Methods" Url="html/c5062154-3e31-dbd7-9260-1bbd07b7dd14.htm">
+        <HelpTOCNode Title="getSpecificInstance Method " Url="html/4ffaa09a-d18f-aa30-6082-556f42127d3c.htm" />
+        <HelpTOCNode Title="reset Method " Url="html/cd0e3899-4fc3-d0de-d154-989dbf3472a3.htm" />
+        <HelpTOCNode Title="setUp Method " Url="html/5e4ac5a6-1b18-75b2-a2bf-79a0571b59b7.htm" />
+        <HelpTOCNode Title="tearDown Method " Url="html/ae18639a-737c-8e5c-1a49-efa22e38f04b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="31d461f5-3391-492c-a8d5-cf214912d117" Title="watchasayin.Surface Namespace" Url="html/c8236835-79cb-8dc5-b4f6-a1380481c2e9.htm">
+    <HelpTOCNode Title="DCallEndedHandler Delegate" Url="html/b2ee5ff2-7201-5421-f224-9ed5a56cab01.htm" />
+    <HelpTOCNode Title="DCallStartedHandler Delegate" Url="html/02e3e34e-9c23-2ba1-bd57-d8cd0e65381a.htm" />
+    <HelpTOCNode Title="DChatMessageHandler Delegate" Url="html/065c6418-1086-3413-f0ca-9f024dbab236.htm" />
+    <HelpTOCNode Title="DSendMessageSpecific Delegate" Url="html/69b35e30-f70d-d348-465b-a6b60c77a787.htm" />
+    <HelpTOCNode Id="bec7c09f-6217-4399-bdd5-46616389574f" Title="ExceptionNotImplemented Class" Url="html/c776ed65-393e-39c5-9c18-3de3b0fa6095.htm">
+      <HelpTOCNode Title="ExceptionNotImplemented Members" Url="html/dd9136d7-25d6-a795-f041-de67c201d011.htm" />
+      <HelpTOCNode Id="e712b9fc-3ac3-4541-b1a3-0bcf41849882" Title="ExceptionNotImplemented Constructor " Url="html/c3c26d1c-9fc9-75af-3adb-3bf71d14e225.htm">
+        <HelpTOCNode Title="ExceptionNotImplemented Constructor " Url="html/7559e5b5-0e79-3503-5110-839dd27cab61.htm" />
+        <HelpTOCNode Title="ExceptionNotImplemented Constructor (String)" Url="html/796518e2-2ffe-82d9-e9fc-8253a73d2682.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ExceptionNotImplemented Methods" Url="html/1e5cb5c9-8415-2518-d75f-4785ce1dbfb9.htm" />
+      <HelpTOCNode Title="ExceptionNotImplemented Properties" Url="html/829f3fa3-8f56-a62e-0e22-1e639e1d1299.htm" />
+      <HelpTOCNode Title="ExceptionNotImplemented Events" Url="html/f07a4e01-ee42-182e-b60e-57556c8a293f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="84ba5170-9073-427b-9c26-7c0f02edea3f" Title="IModule Interface" Url="html/89c0b4b5-0110-2105-cc14-a11197cd2057.htm">
+      <HelpTOCNode Title="IModule Members" Url="html/532bf51b-e1cd-96a5-6fd6-a0beebf32cc1.htm" />
+      <HelpTOCNode Id="978d82b1-f9df-41ee-afb4-224cf803a0ab" Title="IModule Methods" Url="html/432e5c65-7c79-8ee4-7235-4fd5a0a091e4.htm">
+        <HelpTOCNode Title="reset Method " Url="html/004fd136-58f3-81d2-ec69-d4547b88eb1d.htm" />
+        <HelpTOCNode Title="setUp Method " Url="html/2fca3403-fd39-ecac-cc75-826d7c857ec8.htm" />
+        <HelpTOCNode Title="tearDown Method " Url="html/1005570c-d582-6070-4c06-10e9c7c09485.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="09c05150-8953-49ec-b0cc-3ceb80321343" Title="IModuleExternalCommunicationSpecific Interface" Url="html/2af6db3f-1efd-8bc8-b4d7-bbc604b47c9a.htm">
+      <HelpTOCNode Title="IModuleExternalCommunicationSpecific Members" Url="html/bdcb8317-4da3-800d-d511-d1fe553ce3ba.htm" />
+      <HelpTOCNode Id="00db97ea-7c04-448d-9fc3-88cef4db7785" Title="IModuleExternalCommunicationSpecific Methods" Url="html/61d7c601-c465-b5ad-27df-346cd01e4bd8.htm">
+        <HelpTOCNode Title="messageReceived Method " Url="html/b9ada7b0-d8db-5bf6-e571-c1fa565b230b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0389e33f-a16d-41f6-9c12-a4a483e46cea" Title="IModuleExternalCommunicationSpecific Properties" Url="html/23ad55d7-8ae8-dd69-59be-99c51eb881e5.htm">
+        <HelpTOCNode Title="sendMessage Property " Url="html/dfd553ea-0eeb-155a-b042-eadfdcddd52b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TSession Enumeration" Url="html/4b8af640-4d08-2186-beeb-d2892b85c2ab.htm" />
+    <HelpTOCNode Title="TSurfaceMessage Enumeration" Url="html/037f33c5-2f1d-4abd-0154-51a3be2c1a51.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="af1f905f-29df-45b7-a36d-ebc41fb10e3a" Title="watchasayin.Surface.GUI Namespace" Url="html/eff9b670-2b1d-2378-7ef2-fba019d93d33.htm">
+    <HelpTOCNode Id="44263f7d-cc0a-4e40-8440-fa8675978406" Title="FormMain Class" Url="html/0f975e3f-e87f-f0d4-88db-10998d933241.htm">
+      <HelpTOCNode Title="FormMain Members" Url="html/b2c098e9-6aee-57ab-c7db-57d63bf2f678.htm" />
+      <HelpTOCNode Title="FormMain Constructor " Url="html/fb63e50c-ce2b-71e5-478e-6a1e5ed8e1c6.htm" />
+      <HelpTOCNode Id="c8b8419c-6518-4ca2-83de-83059fe444e5" Title="FormMain Methods" Url="html/1341c69b-e40e-b11b-1b2e-a0a3aed19f66.htm">
+        <HelpTOCNode Title="AccessibilityNotifyClients Method " Url="html/82902aa6-a216-d85d-a237-4f577311646e.htm" />
+        <HelpTOCNode Title="addSession Method " Url="html/6219a937-a31c-22eb-3096-92861a907c54.htm" />
+        <HelpTOCNode Title="akeSuccessful Method " Url="html/d1d23e59-bb15-13b3-d019-80c3a04fe6f7.htm" />
+        <HelpTOCNode Title="BeginInvoke Method " Url="html/aa64190d-8858-7b13-51ef-313a50fb6577.htm" />
+        <HelpTOCNode Title="confirmNewFingerprint Method " Url="html/8f0e32fa-c9ff-7ee1-f2d6-99010867a023.htm" />
+        <HelpTOCNode Title="displayNotification Method " Url="html/664549b7-e7cf-9884-669e-067a7a59671d.htm" />
+        <HelpTOCNode Title="displayOwnFingerprint Method " Url="html/9fabfbb4-5a76-b9ac-d7bd-731c783b1d69.htm" />
+        <HelpTOCNode Id="ff20abb3-582a-46d3-8d89-9fddfd08f903" Title="Dispose Method " Url="html/feb59da9-e055-dc40-07c7-5ab5c1a763da.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/8cec0929-2999-9adf-ae34-98e866de7ef1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="fingerprintsInvalid Method " Url="html/472018f4-4005-9343-4438-da21246e09b3.htm" />
+        <HelpTOCNode Title="GetChildAtPoint Method " Url="html/aaa464a7-5bc3-d130-9765-cf10b625b5e8.htm" />
+        <HelpTOCNode Title="goneInsecure Method " Url="html/f591a80f-e685-8a72-3959-a356cf3fcf65.htm" />
+        <HelpTOCNode Title="goneSecure Method " Url="html/78c78f07-82f4-98ee-35a8-5c25c1683e31.htm" />
+        <HelpTOCNode Title="Invalidate Method " Url="html/e74c3f31-c8cb-6397-783c-7007a7291125.htm" />
+        <HelpTOCNode Title="Invoke Method " Url="html/67d183c4-5171-c964-54a5-6b5304f1579a.htm" />
+        <HelpTOCNode Title="log Method " Url="html/625b4cb4-f2cb-ef3f-219c-14a63d11e62f.htm" />
+        <HelpTOCNode Title="MemberwiseClone Method " Url="html/6c4361bf-258f-315b-c3dc-6116aa365578.htm" />
+        <HelpTOCNode Title="noFingerprintsFound Method " Url="html/371b4978-2964-558f-7494-344ab38aeea2.htm" />
+        <HelpTOCNode Title="noPrivateKeyFound Method " Url="html/1012067c-1580-179c-3de8-3bfab1d0f6b8.htm" />
+        <HelpTOCNode Title="PerformLayout Method " Url="html/8c1649a4-23c9-b72b-2b93-d549449cb316.htm" />
+        <HelpTOCNode Title="privateKeyInvalid Method " Url="html/bf6ec71f-9daa-ef7a-96f2-14e66a0ae3d7.htm" />
+        <HelpTOCNode Title="removeSession Method " Url="html/9bc55154-21ae-2580-d1a1-206007081d04.htm" />
+        <HelpTOCNode Title="ResumeLayout Method " Url="html/9e345ffe-1869-e026-d906-6e49a96b91b5.htm" />
+        <HelpTOCNode Title="RtlTranslateAlignment Method " Url="html/3d1b6864-b86c-43fa-bd19-dcf5d4ab8d69.htm" />
+        <HelpTOCNode Title="Scale Method " Url="html/3b18a041-f9c8-2044-9790-4705a0a182c1.htm" />
+        <HelpTOCNode Title="Select Method " Url="html/66a2deb5-ec30-78b7-9c0f-91a65b44c855.htm" />
+        <HelpTOCNode Title="SetBounds Method " Url="html/ed02781e-7bff-5379-5bcc-4b08d97a6dac.htm" />
+        <HelpTOCNode Title="Show Method " Url="html/c42b9c9f-35bd-009f-dc5d-ee09412a5152.htm" />
+        <HelpTOCNode Title="ShowDialog Method " Url="html/b8fb4204-64f5-eb2a-ac3d-7e9d8aaeab75.htm" />
+        <HelpTOCNode Title="UpdateBounds Method " Url="html/30a999cc-3bb1-924e-3d99-cdd791ae5335.htm" />
+        <HelpTOCNode Title="Validate Method " Url="html/47755f4a-ce47-f48c-42fa-dc2f962428b1.htm" />
+        <HelpTOCNode Title="ValidateChildren Method " Url="html/2970026d-c17b-1741-1f9f-24d855b23f07.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FormMain Properties" Url="html/aae89343-e50f-915d-3e68-1ea6104f1ce8.htm" />
+      <HelpTOCNode Title="FormMain Events" Url="html/23395f28-020a-207e-4646-ddcea01edcca.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="b9a95064-bf21-4996-8b24-3d2093c84b11" Title="watchasayin.Surface.Protocol Namespace" Url="html/53296e50-374a-9cd4-5fff-e57e8a27e9db.htm">
+    <HelpTOCNode Id="d3ab186c-cceb-4d06-9cd9-a215d28d4ed8" Title="Session Class" Url="html/7c49b5e3-dca3-e996-09ed-cc90290f2dbf.htm">
+      <HelpTOCNode Title="Session Members" Url="html/a42eab80-2d69-b2e0-f2dc-648acc05157b.htm" />
+      <HelpTOCNode Title="Session Constructor " Url="html/db2a58bd-cd14-80b2-e0ed-eb702f4b43a9.htm" />
+      <HelpTOCNode Id="41473693-e86c-4667-91ec-79376fe2308b" Title="Session Methods" Url="html/4d64f349-dd25-f205-b20e-ac0c8d9b7ec2.htm">
+        <HelpTOCNode Title="ackReceived Method " Url="html/c17a0a37-ca09-4ba1-39ab-8dd033869f16.htm" />
+        <HelpTOCNode Title="btm2btmReceived Method " Url="html/0449825d-ceec-0494-0b09-9caab966107c.htm" />
+        <HelpTOCNode Title="closingReceived Method " Url="html/221c1bcf-626e-ae5c-57ce-ffd23a3454a2.htm" />
+        <HelpTOCNode Title="end Method " Url="html/bc05852a-3dcc-3d0c-f1f6-ab1c3cf97270.htm" />
+        <HelpTOCNode Title="krypt2kryptReceived Method " Url="html/db92b9f0-bc1a-d714-dce7-94e3f2a5799a.htm" />
+        <HelpTOCNode Title="nackReceived Method " Url="html/f0e0a944-6e4c-c779-a11c-e41b1974fcea.htm" />
+        <HelpTOCNode Title="securityStatusChanged Method " Url="html/b742e36a-7eee-2656-5ddc-07275614b7ee.htm" />
+        <HelpTOCNode Title="start Method " Url="html/51ab6174-f735-108e-8aa7-e619c7cc3fd6.htm" />
+        <HelpTOCNode Title="synReceived Method " Url="html/95a3a9ab-9913-5359-059a-335c7a3b73f5.htm" />
+        <HelpTOCNode Title="unknownReceived Method " Url="html/28ac7712-0b51-6ea4-4c5b-4002c09902e3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="25678fe7-9af4-4b7d-9dd4-43932dff53a7" Title="Session Properties" Url="html/a0fcbd68-ea45-af93-0d29-41d4506f12be.htm">
+        <HelpTOCNode Title="running Property " Url="html/86e8e2c6-a540-466a-db7a-edba74d45b84.htm" />
+        <HelpTOCNode Title="startedProtocol Property " Url="html/38b30d23-1f5e-73b6-923b-269c8b171890.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

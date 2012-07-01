@@ -1,0 +1,67 @@
+// Kryptonite.idl : IDL source for Kryptonite
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (Kryptonite.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(92FE0A85-9012-4699-B58F-D34BD2FA5115),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IGeneric : IDispatch{
+	[id(1)] HRESULT getLog([out,retval] SAFEARRAY(BSTR)* lines);
+};
+[
+	object,
+	uuid(5F1202DB-2F2C-42B3-86B9-3D092E0B5E4A),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface ICrypto : IDispatch{
+	[id(1)] HRESULT init([in] BSTR accountName, [in] BSTR baseDir, [out,retval] int* nextAction);
+	[id(2)] HRESULT generatePrivateKey([out,retval] int* nextAction);
+	[id(3)] HRESULT messageReceived([in] BSTR partner, [in] BSTR message, [out] BSTR* plain, [out] BOOL* deploy, [out,retval] int* nextAction);
+	[id(4)] HRESULT messageSending([in] BSTR partner, [in] BSTR message, [out] BSTR* cipher, [out,retval] int* nextAction);
+	[id(5)] HRESULT getNextMessage([in] BSTR partner, [out] BSTR* message, [out,retval] int* messagesLeft);
+	[id(6)] HRESULT getNextNotification([in] BSTR partner, [out] BSTR* notification, [out,retval] int* notificationsLeft);
+	[id(7)] HRESULT getNextEvent([in] BSTR partner, [out] int* eventType, [out] BSTR* eventData, [out,retval] int* eventsLeft);
+	[id(8)] HRESULT getNextEventGeneric([out] int* eventType, [out] BSTR* eventData, [out,retval] int* eventsLeft);
+	[id(9)] HRESULT startSession([in] BSTR partner, [out,retval] int* nextAction);
+	[id(10)] HRESULT endSession([in] BSTR partner, [out,retval] int* nextAction);
+	[id(11)] HRESULT createFingerprintStore([out,retval] int* nextAction);
+	[id(12)] HRESULT getOwnFingerprint([out] BSTR* fingerprint, [out,retval] BOOL* success);
+	[id(13)] HRESULT confirmFingerprint([in] BSTR partner, [in] BSTR fingerprint, [out,retval] int* nextAction);
+	[id(14)] HRESULT getSessionKey([in]BSTR partner, [out] SAFEARRAY(BYTE)* key, [out,retval] BOOL* success);
+	[id(15)] HRESULT getFingerprint([in] BSTR partner,[out] BSTR* fingerprint, [out,retval] BOOL* success);
+};
+[
+	uuid(89D3E345-93D5-4797-8BB2-B9C32B5B4255),
+	version(1.0),
+]
+library KryptoniteLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(82612A97-7D8A-42CF-B9C4-C7758BAFE048)		
+	]
+	coclass Generic
+	{
+		[default] interface IGeneric;
+	};
+	[
+		uuid(CD109C50-2C13-4121-833F-8307BB46F665)		
+	]
+	coclass Crypto
+	{
+		[default] interface ICrypto;
+	};
+};
+
+import "shobjidl.idl";

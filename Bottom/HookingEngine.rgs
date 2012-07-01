@@ -1,0 +1,16 @@
+HKCR
+{
+	NoRemove CLSID
+	{
+		ForceRemove {19F24CE7-3551-4CDC-A2A0-B4DA4B0F396E} = s 'HookingEngine Class'
+		{
+			ForceRemove Programmable
+			LocalServer32 = s '%MODULE%'
+			{
+				val ServerExecutable = s '%MODULE_RAW%'
+			}
+			TypeLib = s '{F3B2DB50-48FD-45FC-93C0-69C0F785D0D5}'
+			Version = s '1.0'
+		}
+	}
+}

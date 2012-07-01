@@ -1,0 +1,69 @@
+// Bottom.idl : IDL source for Bottom
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (Bottom.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(9D98616B-7348-4A98-B785-1B4D522FFFF1),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IGeneric : IDispatch{
+	[id(1)] HRESULT getPid([out,retval] int* pid);
+	[id(2),helpstring("Returns an array of type string[]")] HRESULT getLog([out,retval] SAFEARRAY(BSTR)* lines);
+	[id(3)] HRESULT unload([in] BSTR ownName);
+};
+[
+	object,
+	uuid(CBE2E8B4-2575-4D16-A800-64E6AD91295D),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IHookingEngine : IDispatch{
+	[id(1)] HRESULT hookNetworkIO([out,retval] BOOL* success);
+	[id(2)] HRESULT unhookNetworkIO([out,retval] BOOL* success);
+	[id(3),helpstring("Returns an array of type uint[,]")] HRESULT getOpenConnectionsOutgoing([out,retval] SAFEARRAY(unsigned int) * connections);
+	[id(4),helpstring("Returns an array of type uint[,]")] HRESULT getOpenConnectionsIncoming([out,retval] SAFEARRAY(unsigned int) * connections);
+	[id(5)] HRESULT resetConnections([out,retval] BOOL* success);
+	[id(6)] HRESULT addConnectionOutgoing([in] unsigned int sessionId, [in] unsigned int ip, [in] unsigned short sourcePort, [in] unsigned short destinationPort, [in] unsigned int protocol, [out,retval] BOOL* success);
+	[id(7)] HRESULT addConnectionIncoming([in] unsigned int sessionId, [in] unsigned int ip, [in] unsigned short sourcePort, [in] unsigned short destinationPort, [in] unsigned int protocol, [out,retval] BOOL* success);
+	[id(8)] HRESULT createSession([in] BOOL expandable, [out,retval] unsigned int* sessionId);
+	[id(9)] HRESULT startSession([in] unsigned int sessionId, [in] SAFEARRAY(BYTE) key, [out,retval] BOOL* success);
+	[id(10)] HRESULT destroySession([in] unsigned int sessionId, [out,retval] BOOL* success);
+	[id(11)] HRESULT init([in] BSTR baseDir, [out,retval] BOOL* success);
+	[id(12)] HRESULT setSecurityPolicy(int securityPolicy, [out,retval] BOOL* success);
+	[id(13)] HRESULT startCountingConnections([out,retval] BOOL* success);
+	[id(14)] HRESULT stopCountingConnections([out,retval] BOOL* success);
+	[id(15)] HRESULT getMostUsedPeerIP([out,retval]unsigned int* ip);
+};
+[
+	uuid(F3B2DB50-48FD-45FC-93C0-69C0F785D0D5),
+	version(1.0),
+]
+library BottomLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(DEE1561E-5FDA-49CF-9BD0-48A8D6314369)		
+	]
+	coclass Generic
+	{
+		[default] interface IGeneric;
+	};
+	[
+		uuid(19F24CE7-3551-4CDC-A2A0-B4DA4B0F396E)		
+	]
+	coclass HookingEngine
+	{
+		[default] interface IHookingEngine;
+	};
+};
+
+import "shobjidl.idl";
